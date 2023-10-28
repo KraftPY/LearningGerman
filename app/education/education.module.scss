@@ -1,0 +1,13 @@
+.nav {
+  // @apply grid grid-flow-col auto-cols-max justify-self-auto border border-green-500;
+  @apply grid grid-flow-col justify-stretch gap-5;
+}
+
+.nav_button {
+  @apply flex justify-center;
+  @apply bg-slate-400 border border-r-2 py-2;
+
+  &:hover {
+    @apply bg-slate-500;
+  }
+}
