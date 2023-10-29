@@ -37,21 +37,21 @@
       "english": {
         "singular": {
           "common": "time",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "время",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -67,21 +67,21 @@
       "english": {
         "singular": {
           "common": "life",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "lives",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "жизнь",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "жизни",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -97,21 +97,21 @@
       "english": {
         "singular": {
           "common": "love",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "loves",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "любовь",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "любви",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -137,11 +137,11 @@
       "russian": {
         "singular": {
           "common": "человек",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "люди",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -157,21 +157,21 @@
       "english": {
         "singular": {
           "common": "year",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "years",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "год",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "года",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -187,21 +187,21 @@
       "english": {
         "singular": {
           "common": "city",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "cities",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "город",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "города",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -217,21 +217,21 @@
       "english": {
         "singular": {
           "common": "work",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "works",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "работа",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "работы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -247,21 +247,21 @@
       "english": {
         "singular": {
           "common": "school",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "schools",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "школа",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "школы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -277,21 +277,21 @@
       "english": {
         "singular": {
           "common": "family",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "families",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "семья",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "семьи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -307,21 +307,21 @@
       "english": {
         "singular": {
           "common": "child",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "children",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "ребёнок",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "дети",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -337,21 +337,21 @@
       "english": {
         "singular": {
           "common": "country",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "countries",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "страна",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "страны",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -367,21 +367,21 @@
       "english": {
         "singular": {
           "common": "book",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "books",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "книга",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "книги",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -397,21 +397,21 @@
       "english": {
         "singular": {
           "common": "week",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "weeks",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "неделя",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "недели",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -427,21 +427,21 @@
       "english": {
         "singular": {
           "common": "girl",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "girls",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "девочка",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "девочки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -457,21 +457,21 @@
       "english": {
         "singular": {
           "common": "man",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "men",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "мужчина",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "мужчины",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -487,21 +487,21 @@
       "english": {
         "singular": {
           "common": "woman",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "women",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "женщина",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "женщины",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -517,21 +517,21 @@
       "english": {
         "singular": {
           "common": "hand",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "hands",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "рука",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "руки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -547,21 +547,21 @@
       "english": {
         "singular": {
           "common": "water",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "waters",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "вода",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "воды",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -577,21 +577,21 @@
       "english": {
         "singular": {
           "common": "day",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "days",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "день",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "дни",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -607,21 +607,21 @@
       "english": {
         "singular": {
           "common": "night",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "nights",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "ночь",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "ночи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -637,21 +637,21 @@
       "english": {
         "singular": {
           "common": "group",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "groups",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "группа",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "группы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -667,21 +667,21 @@
       "english": {
         "singular": {
           "common": "friend",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "friends",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "друг",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "друзья",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -697,21 +697,21 @@
       "english": {
         "singular": {
           "common": "room",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "rooms",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "комната",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "комнаты",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -727,21 +727,21 @@
       "english": {
         "singular": {
           "common": "eye",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "eyes",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "глаз",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "глаза",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -757,21 +757,21 @@
       "english": {
         "singular": {
           "common": "body",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "bodies",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "тело",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "тела",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -787,21 +787,21 @@
       "english": {
         "singular": {
           "common": "heart",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "hearts",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "сердце",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "сердца",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -817,21 +817,21 @@
       "english": {
         "singular": {
           "common": "world",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "worlds",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "мир",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "миры",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -847,21 +847,21 @@
       "english": {
         "singular": {
           "common": "car",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "cars",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "автомобиль",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "автомобили",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -877,21 +877,21 @@
       "english": {
         "singular": {
           "common": "occupation",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "occupations",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "профессия",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "профессии",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -907,21 +907,21 @@
       "english": {
         "singular": {
           "common": "name",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "names",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "имя",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "имена",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -937,21 +937,21 @@
       "english": {
         "singular": {
           "common": "university",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "universities",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "университет",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "университеты",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -977,11 +977,11 @@
       "russian": {
         "singular": {
           "common": "путешествие",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "путешествия",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1007,11 +1007,11 @@
       "russian": {
         "singular": {
           "common": "путь",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "пути",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1027,21 +1027,21 @@
       "english": {
         "singular": {
           "common": "apple",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "apples",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "яблоко",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "яблоки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1057,21 +1057,21 @@
       "english": {
         "singular": {
           "common": "table",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "tables",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "стол",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "столы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1117,21 +1117,21 @@
       "english": {
         "singular": {
           "common": "idea",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "ideas",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "идея",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "идеи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1147,21 +1147,21 @@
       "english": {
         "singular": {
           "common": "history",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "histories",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "история",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "истории",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1177,21 +1177,21 @@
       "english": {
         "singular": {
           "common": "problem",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "problems",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "проблема",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "проблемы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1207,21 +1207,21 @@
       "english": {
         "singular": {
           "common": "place",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "places",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "место",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "места",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1237,21 +1237,21 @@
       "english": {
         "singular": {
           "common": "question",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "questions",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "вопрос",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "вопросы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1267,21 +1267,21 @@
       "english": {
         "singular": {
           "common": "animal",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "animals",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "животное",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "животные",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1297,21 +1297,21 @@
       "english": {
         "singular": {
           "common": "party",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "parties",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "партия",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "партии",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1327,21 +1327,21 @@
       "english": {
         "singular": {
           "common": "tree",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "trees",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "дерево",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "деревья",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1357,21 +1357,21 @@
       "english": {
         "singular": {
           "common": "brother",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "brothers",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "брат",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "братья",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1387,21 +1387,21 @@
       "english": {
         "singular": {
           "common": "sister",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "sisters",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "сестра",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "сестры",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1417,21 +1417,21 @@
       "english": {
         "singular": {
           "common": "nature",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "natures",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "природа",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "природы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1447,21 +1447,21 @@
       "english": {
         "singular": {
           "common": "sky",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "skies",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "небо",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "небеса",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1477,21 +1477,21 @@
       "english": {
         "singular": {
           "common": "area",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "areas",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "район",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "районы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1507,21 +1507,21 @@
       "english": {
         "singular": {
           "common": "task",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "tasks",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "задача",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "задачи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1537,21 +1537,21 @@
       "english": {
         "singular": {
           "common": "language",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "languages",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "язык",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "языки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1567,21 +1567,21 @@
       "english": {
         "singular": {
           "common": "culture",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "cultures",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "культура",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "культуры",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1597,21 +1597,21 @@
       "english": {
         "singular": {
           "common": "face",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "faces",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "лицо",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "лица",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1627,21 +1627,21 @@
       "english": {
         "singular": {
           "common": "future",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "futures",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "будущее",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "будущие",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1657,21 +1657,21 @@
       "english": {
         "singular": {
           "common": "past",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "pasts",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "прошлое",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "прошлые",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1687,21 +1687,21 @@
       "english": {
         "singular": {
           "common": "present",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "presents",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "настоящее",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "настоящие",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1717,21 +1717,21 @@
       "english": {
         "singular": {
           "common": "step",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "steps",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "шаг",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "шаги",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1747,21 +1747,21 @@
       "english": {
         "singular": {
           "common": "goal",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "goals",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "цель",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "цели",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1777,21 +1777,21 @@
       "english": {
         "singular": {
           "common": "happiness",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "happinesses",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "счастье",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "счастья",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1807,21 +1807,21 @@
       "english": {
         "singular": {
           "common": "health",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "healths",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "здоровье",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "здоровья",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1837,21 +1837,21 @@
       "english": {
         "singular": {
           "common": "science",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "sciences",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "наука",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "науки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1867,21 +1867,21 @@
       "english": {
         "singular": {
           "common": "technology",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "technologies",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "технология",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "технологии",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1897,21 +1897,21 @@
       "english": {
         "singular": {
           "common": "progress",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "progresses",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "прогресс",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "прогрессы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1927,21 +1927,21 @@
       "english": {
         "singular": {
           "common": "music",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "musics",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "музыка",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "музыки",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1957,21 +1957,21 @@
       "english": {
         "singular": {
           "common": "song",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "songs",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "песня",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "песни",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -1987,21 +1987,21 @@
       "english": {
         "singular": {
           "common": "art",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "arts",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "искусство",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "искусства",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2017,21 +2017,21 @@
       "english": {
         "singular": {
           "common": "picture",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "pictures",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "картина",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "картины",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2047,21 +2047,21 @@
       "english": {
         "singular": {
           "common": "color",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "colors",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "цвет",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "цвета",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2077,21 +2077,21 @@
       "english": {
         "singular": {
           "common": "form",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "forms",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "форма",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "формы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2107,21 +2107,21 @@
       "english": {
         "singular": {
           "common": "style",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "styles",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "стиль",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "стили",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2137,21 +2137,21 @@
       "english": {
         "singular": {
           "common": "cinema",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "cinemas",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "кино",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "кино",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2167,21 +2167,21 @@
       "english": {
         "singular": {
           "common": "theater",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "theaters",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "театр",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "театры",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2197,21 +2197,21 @@
       "english": {
         "singular": {
           "common": "literature",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "literature",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "литература",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "литература",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2227,21 +2227,21 @@
       "english": {
         "singular": {
           "common": "emotion",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "emotions",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "эмоция",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "эмоции",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2257,21 +2257,21 @@
       "english": {
         "singular": {
           "common": "mood",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "moods",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "настроение",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "настроения",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2287,21 +2287,21 @@
       "english": {
         "singular": {
           "common": "experience",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "experiences",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "опыт",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "опыт",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2317,21 +2317,21 @@
       "english": {
         "singular": {
           "common": "success",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "successes",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "успех",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "успехи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2347,21 +2347,21 @@
       "english": {
         "singular": {
           "common": "defeat",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "defeats",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "поражение",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "поражения",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2377,21 +2377,21 @@
       "english": {
         "singular": {
           "common": "fear",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "fears",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "страх",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "страхи",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2407,21 +2407,21 @@
       "english": {
         "singular": {
           "common": "hope",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "hopes",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "надежда",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "надежды",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2437,21 +2437,21 @@
       "english": {
         "singular": {
           "common": "dream",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "dreams",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "мечта",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "мечты",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2467,21 +2467,21 @@
       "english": {
         "singular": {
           "common": "reality",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "realities",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "реальность",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "реальности",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2497,21 +2497,21 @@
       "english": {
         "singular": {
           "common": "freedom",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "freedoms",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "свобода",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "свободы",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2527,21 +2527,21 @@
       "english": {
         "singular": {
           "common": "right",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "rights",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "право",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "права",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2557,21 +2557,21 @@
       "english": {
         "singular": {
           "common": "duty",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "duties",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "обязанность",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "обязанности",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2587,21 +2587,21 @@
       "english": {
         "singular": {
           "common": "responsibility",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "responsibilities",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "ответственность",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "ответственности",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2617,21 +2617,21 @@
       "english": {
         "singular": {
           "common": "belief",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "beliefs",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "вера",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "веры",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2647,21 +2647,21 @@
       "english": {
         "singular": {
           "common": "religion",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "religions",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "религия",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "религии",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2677,21 +2677,21 @@
       "english": {
         "singular": {
           "common": "church",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "churches",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "церковь",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "церкви",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2707,21 +2707,21 @@
       "english": {
         "singular": {
           "common": "ethics",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "ethics",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "этика",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "этика",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -2737,21 +2737,21 @@
       "english": {
         "singular": {
           "common": "morality",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "morality",
-          "other": [""]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "нравственность",
-          "other": [""]
+          "other": []
         },
         "plural": {
           "common": "нравственность",
-          "other": [""]
+          "other": []
         }
       }
     },
@@ -6526,11 +6526,11 @@
       },
       "russian": {
         "singular": {
-          "common": "женский клиент",
+          "common": "клиент (женщина)",
           "other": []
         },
         "plural": {
-          "common": "женские клиенты",
+          "common": "клиенты (женщина)",
           "other": []
         }
       }
@@ -10894,11 +10894,11 @@
       },
       "russian": {
         "singular": {
-          "common": "женский врач",
+          "common": "врач (женщина)",
           "other": []
         },
         "plural": {
-          "common": "женские врачи",
+          "common": "врачи (женщина)",
           "other": []
         }
       }
@@ -13554,12 +13554,12 @@
       },
       "russian": {
         "singular": {
-          "common": "медицинская сестра (мужчина)",
-          "other": []
+          "common": "медицинский брат",
+          "other": ["медбрат"]
         },
         "plural": {
-          "common": "медицинские сестры (мужчины)",
-          "other": []
+          "common": "медицинские братья",
+          "other": ["медбратья"]
         }
       }
     },
@@ -15598,11 +15598,11 @@
       },
       "russian": {
         "singular": {
-          "common": "руководитель стажировки (женский род)",
+          "common": "руководитель стажировки (женщина)",
           "other": []
         },
         "plural": {
-          "common": "руководители стажировки (женский род)",
+          "common": "руководители стажировки (женщина)",
           "other": []
         }
       }

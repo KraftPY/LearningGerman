@@ -5,6 +5,7 @@ import classNames from "classnames/bind";
 const cn = classNames.bind(styles);
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 import { INoun, TArticle } from "@/types";
 import nounsAll from "@/dictionary/nouns.json";
 const articles: TArticle[] = ["der", "die", "das"];
@@ -14,11 +15,29 @@ export default function Nouns() {
   const [articel, setArticel] = useState<TArticle | null>(null);
   const [answer, setAnswer] = useState<string>("");
   const [checked, setChecked] = useState<boolean>(false);
+  const [showHelp, setShowHelp] = useState<boolean>(false);
+  const [shuffledAnswer, setShuffledAnswer] = useState<string[]>([]);
 
   useEffect(() => {
     const randomNum = Math.floor(Math.random() * nounsAll.length);
     setSelectedNoun(nounsAll[randomNum] as INoun);
+    // const fNoun = nounsAll.find(
+    //   (el) => el.translations.russian.singular.other.length
+    // );
+    // if (fNoun) {
+    //   setSelectedNoun(fNoun as INoun);
+    // }
   }, []);
+
+  useEffect(() => {
+    if (selectedNoun) {
+      const shuffledLetters = selectedNoun.word
+        .split("")
+        .sort((a, b) => Math.random() - Math.random())
+        .map((l) => l.toLowerCase());
+      setShuffledAnswer(shuffledLetters);
+    }
+  }, [selectedNoun]);
 
   const onCheckAnswer = (): void => {
     setChecked(true);
@@ -30,6 +49,7 @@ export default function Nouns() {
     setChecked(false);
     setAnswer("");
     setArticel(null);
+    setShowHelp(false);
   };
 
   const getArticlesStyle = (art: string): string => {
@@ -50,8 +70,12 @@ export default function Nouns() {
     });
   };
 
-  const checkingAnswer = (): boolean => {
-    return checked && answer.toLowerCase() === selectedNoun?.word.toLowerCase();
+  const onShowHelp = (): void => {
+    setShowHelp(true);
+  };
+
+  const onSelectLetter = (letter: string): void => {
+    setAnswer(answer + letter);
   };
 
   return (
@@ -61,6 +85,11 @@ export default function Nouns() {
           ? selectedNoun.translations.russian.singular.common
           : "..."}
       </h1>
+      {selectedNoun?.translations.russian.singular.other.length ? (
+        <p className={cn("other-translation")}>
+          ({selectedNoun.translations.russian.singular.other})
+        </p>
+      ) : null}
       <div className={cn("articles")}>
         {articles.map((value: TArticle, i: number) => (
           <button
@@ -79,11 +108,41 @@ export default function Nouns() {
         value={answer}
         onChange={({ target }) => setAnswer(target.value)}
       />
-      <p>
-        {checked && selectedNoun?.word.toLowerCase() !== answer.toLowerCase()
-          ? selectedNoun?.word
-          : ""}
-      </p>
+      <div className={cn("help-container")}>
+        <span>Подсказка:</span>
+        {showHelp ? (
+          <div className={cn("letters-help-container")}>
+            {shuffledAnswer.length &&
+              shuffledAnswer.map((l: string, i: number) => (
+                <button
+                  key={i}
+                  className={cn("letter-btn")}
+                  onClick={() => onSelectLetter(l)}
+                >
+                  {l}
+                </button>
+              ))}
+          </div>
+        ) : (
+          <Image
+            className={cn("help-img")}
+            src="/question-mark.png"
+            alt="help"
+            width={28}
+            height={28}
+            onClick={onShowHelp}
+          />
+        )}
+      </div>
+
+      {checked && selectedNoun?.word.toLowerCase() !== answer.toLowerCase() ? (
+        <p className={cn("correct-answer")}>
+          Ответ: <strong>{selectedNoun?.word}</strong>
+        </p>
+      ) : (
+        ""
+      )}
+
       {!checked ? (
         <button
           onClick={onCheckAnswer}
@@ -92,11 +151,10 @@ export default function Nouns() {
         >
           Проверить
         </button>
-      ) : (
-        <button onClick={nextWord} className={cn("checkBtn")}>
-          Далее
-        </button>
-      )}
+      ) : null}
+      <button onClick={nextWord} className={cn("nextBtn")}>
+        Далее
+      </button>
     </div>
   );
 }

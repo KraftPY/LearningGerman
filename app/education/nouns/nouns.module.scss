@@ -1,17 +1,21 @@
 .container {
-  @apply flex flex-col border border-red-500 py-5 px-10 justify-center w-full gap-3;
+  @apply flex flex-col py-5 px-10 justify-center w-full;
 }
 
 .title {
-  @apply text-lg text-center;
+  @apply text-lg text-center mb-0;
+}
+
+.other-translation {
+  @apply text-sm text-center;
 }
 
 .articles {
-  @apply flex flex-row gap-2 justify-center;
+  @apply flex flex-row gap-2 justify-center my-4;
 }
 
 .articleBtn {
-  @apply border border-gray-500 rounded px-2 bg-gray-200 select-none;
+  @apply border border-gray-500 rounded w-14 bg-gray-200 select-none;
 
   &-active {
     @apply bg-gray-400;
@@ -27,7 +31,7 @@
 }
 
 .nounField {
-  @apply border border-gray-400 p-1;
+  @apply border border-gray-400 p-1 mb-2;
 
   &-correct {
     @apply border-green-400 bg-green-300;
@@ -39,9 +43,37 @@
 }
 
 .checkBtn {
-  @apply bg-green-600 py-3 rounded-lg;
+  @apply bg-green-600 py-3 rounded-lg my-4;
 
   &:disabled {
     @apply opacity-40;
+  }
+}
+
+.nextBtn {
+  @apply bg-green-600 py-3 rounded-lg mt-1 mb-4;
+}
+
+.correct-answer {
+  @apply p-2 mb-3;
+}
+
+.help-container {
+  @apply flex flex-row gap-2 px-2 items-center;
+
+  .help-img {
+    @apply cursor-pointer;
+  }
+
+  .letters-help-container {
+    @apply flex flex-row gap-2 flex-wrap;
+
+    .letter-btn {
+      @apply border border-gray-500 rounded w-7 h-7 bg-gray-200 select-none;
+
+      &:hover {
+        @apply bg-gray-400;
+      }
+    }
   }
 }
