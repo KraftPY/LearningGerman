@@ -9,7 +9,8 @@ export default function Header() {
           <h4 className="py-6 text-2xl">Header</h4>
         </div>
         <div className="order-last">
-          <Lang />
+          {/* <Lang /> */}
+          <p>Lang panel</p>
         </div>
       </div>
     </header>

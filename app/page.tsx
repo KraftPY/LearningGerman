@@ -6,8 +6,9 @@ export default function Home() {
   return (
     // <main className="flex min-h-screen flex-col items-center justify-between border-2 border-red-500">
     <main className="min-h-full border-2 border-red-500">
-      <Link href="/education">Education</Link>
-      <Link href="/setting">Setting</Link>
+      <p>Main Page</p>
+      {/* <Link href="/education">Education</Link>
+      <Link href="/setting">Setting</Link> */}
     </main>
   );
 }

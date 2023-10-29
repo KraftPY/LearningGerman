@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Header from "@/components/header/header";
-import { GlobalStoreContext } from "@/store";
+// import { GlobalStoreContext } from "@/store";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,10 +19,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <GlobalStoreContext>
-          <Header />
-          {children}
-        </GlobalStoreContext>
+        {/* <GlobalStoreContext> */}
+        <Header />
+        {children}
+        {/* </GlobalStoreContext> */}
       </body>
     </html>
   );
