@@ -22,7 +22,7 @@ export default function Nouns() {
     const randomNum = Math.floor(Math.random() * nounsAll.length);
     setSelectedNoun(nounsAll[randomNum] as INoun);
     // const fNoun = nounsAll.find(
-    //   (el) => el.translations.russian.singular.other.length
+    //   (el) => el.translations.russian.singular.other.length > 1
     // );
     // if (fNoun) {
     //   setSelectedNoun(fNoun as INoun);
@@ -40,6 +40,7 @@ export default function Nouns() {
   }, [selectedNoun]);
 
   const onCheckAnswer = (): void => {
+    setAnswer(answer.trim());
     setChecked(true);
   };
 
@@ -87,7 +88,7 @@ export default function Nouns() {
       </h1>
       {selectedNoun?.translations.russian.singular.other.length ? (
         <p className={cn("other-translation")}>
-          ({selectedNoun.translations.russian.singular.other})
+          ({selectedNoun.translations.russian.singular.other.join(", ")})
         </p>
       ) : null}
       <div className={cn("articles")}>

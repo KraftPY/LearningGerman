@@ -2,6 +2,7 @@
   {
     "level": "A1",
     "word_id": 1,
+    "synonym": "",
     "word": "Haus",
     "translations": {
       "english": {
@@ -32,6 +33,7 @@
   {
     "level": "A1",
     "word_id": 2,
+    "synonym": "",
     "word": "Zeit",
     "translations": {
       "english": {
@@ -62,6 +64,7 @@
   {
     "level": "",
     "word_id": 3,
+    "synonym": "",
     "word": "Leben",
     "translations": {
       "english": {
@@ -92,6 +95,7 @@
   {
     "level": "",
     "word_id": 4,
+    "synonym": "",
     "word": "Liebe",
     "translations": {
       "english": {
@@ -122,6 +126,7 @@
   {
     "level": "A1",
     "word_id": 5,
+    "synonym": "",
     "word": "Mensch",
     "translations": {
       "english": {
@@ -152,6 +157,7 @@
   {
     "level": "",
     "word_id": 6,
+    "synonym": "",
     "word": "Jahr",
     "translations": {
       "english": {
@@ -182,6 +188,7 @@
   {
     "level": "A1",
     "word_id": 7,
+    "synonym": "",
     "word": "Stadt",
     "translations": {
       "english": {
@@ -212,6 +219,7 @@
   {
     "level": "A1",
     "word_id": 8,
+    "synonym": "",
     "word": "Arbeit",
     "translations": {
       "english": {
@@ -242,6 +250,7 @@
   {
     "level": "A1",
     "word_id": 9,
+    "synonym": "",
     "word": "Schule",
     "translations": {
       "english": {
@@ -272,6 +281,7 @@
   {
     "level": "A1",
     "word_id": 10,
+    "synonym": "",
     "word": "Familie",
     "translations": {
       "english": {
@@ -302,6 +312,7 @@
   {
     "level": "A1",
     "word_id": 11,
+    "synonym": "",
     "word": "Kind",
     "translations": {
       "english": {
@@ -332,6 +343,7 @@
   {
     "level": "A1",
     "word_id": 12,
+    "synonym": "",
     "word": "Land",
     "translations": {
       "english": {
@@ -362,6 +374,7 @@
   {
     "level": "A1",
     "word_id": 13,
+    "synonym": "",
     "word": "Buch",
     "translations": {
       "english": {
@@ -392,6 +405,7 @@
   {
     "level": "A1",
     "word_id": 14,
+    "synonym": "",
     "word": "Woche",
     "translations": {
       "english": {
@@ -422,6 +436,7 @@
   {
     "level": "",
     "word_id": 15,
+    "synonym": "",
     "word": "Mädchen",
     "translations": {
       "english": {
@@ -452,6 +467,7 @@
   {
     "level": "A1",
     "word_id": 16,
+    "synonym": "",
     "word": "Mann",
     "translations": {
       "english": {
@@ -482,6 +498,7 @@
   {
     "level": "A1",
     "word_id": 17,
+    "synonym": "",
     "word": "Frau",
     "translations": {
       "english": {
@@ -512,6 +529,7 @@
   {
     "level": "A1",
     "word_id": 19,
+    "synonym": "",
     "word": "Hand",
     "translations": {
       "english": {
@@ -542,6 +560,7 @@
   {
     "level": "A1",
     "word_id": 20,
+    "synonym": "",
     "word": "Wasser",
     "translations": {
       "english": {
@@ -572,6 +591,7 @@
   {
     "level": "A1",
     "word_id": 21,
+    "synonym": "",
     "word": "Tag",
     "translations": {
       "english": {
@@ -602,6 +622,7 @@
   {
     "level": "A1",
     "word_id": 22,
+    "synonym": "",
     "word": "Nacht",
     "translations": {
       "english": {
@@ -632,6 +653,7 @@
   {
     "level": "A1",
     "word_id": 23,
+    "synonym": "",
     "word": "Gruppe",
     "translations": {
       "english": {
@@ -662,6 +684,7 @@
   {
     "level": "A1",
     "word_id": 24,
+    "synonym": "",
     "word": "Freund",
     "translations": {
       "english": {
@@ -692,6 +715,7 @@
   {
     "level": "A1",
     "word_id": 25,
+    "synonym": "",
     "word": "Zimmer",
     "translations": {
       "english": {
@@ -722,6 +746,7 @@
   {
     "level": "A1",
     "word_id": 26,
+    "synonym": "",
     "word": "Auge",
     "translations": {
       "english": {
@@ -752,6 +777,7 @@
   {
     "level": "A1",
     "word_id": 27,
+    "synonym": "",
     "word": "Körper",
     "translations": {
       "english": {
@@ -782,6 +808,7 @@
   {
     "level": "",
     "word_id": 28,
+    "synonym": "",
     "word": "Herz",
     "translations": {
       "english": {
@@ -812,6 +839,7 @@
   {
     "level": "",
     "word_id": 29,
+    "synonym": "",
     "word": "Welt",
     "translations": {
       "english": {
@@ -842,6 +870,7 @@
   {
     "level": "A1",
     "word_id": 31,
+    "synonym": "",
     "word": "Auto",
     "translations": {
       "english": {
@@ -872,6 +901,7 @@
   {
     "level": "A1",
     "word_id": 32,
+    "synonym": "",
     "word": "Beruf",
     "translations": {
       "english": {
@@ -902,6 +932,7 @@
   {
     "level": "A1",
     "word_id": 33,
+    "synonym": "",
     "word": "Name",
     "translations": {
       "english": {
@@ -932,6 +963,7 @@
   {
     "level": "A1",
     "word_id": 34,
+    "synonym": "",
     "word": "Universität",
     "translations": {
       "english": {
@@ -962,6 +994,7 @@
   {
     "level": "A1",
     "word_id": 35,
+    "synonym": "",
     "word": "Reise",
     "translations": {
       "english": {
@@ -992,6 +1025,7 @@
   {
     "level": "A1",
     "word_id": 36,
+    "synonym": "",
     "word": "Weg",
     "translations": {
       "english": {
@@ -1022,6 +1056,7 @@
   {
     "level": "A1",
     "word_id": 37,
+    "synonym": "",
     "word": "Apfel",
     "translations": {
       "english": {
@@ -1046,12 +1081,13 @@
       }
     },
     "word_type": "Noun",
-    "definite_article": "das",
+    "definite_article": "der",
     "plural_form": "Äpfel"
   },
   {
     "level": "A1",
     "word_id": 38,
+    "synonym": "",
     "word": "Tisch",
     "translations": {
       "english": {
@@ -1082,6 +1118,7 @@
   {
     "level": "A1",
     "word_id": 39,
+    "synonym": "",
     "word": "Zahl",
     "translations": {
       "english": {
@@ -1112,6 +1149,7 @@
   {
     "level": "A1",
     "word_id": 40,
+    "synonym": "",
     "word": "Idee",
     "translations": {
       "english": {
@@ -1142,6 +1180,7 @@
   {
     "level": "",
     "word_id": 41,
+    "synonym": "",
     "word": "Geschichte",
     "translations": {
       "english": {
@@ -1172,6 +1211,7 @@
   {
     "level": "A1",
     "word_id": 42,
+    "synonym": "",
     "word": "Problem",
     "translations": {
       "english": {
@@ -1202,6 +1242,7 @@
   {
     "level": "A1",
     "word_id": 43,
+    "synonym": "",
     "word": "Ort",
     "translations": {
       "english": {
@@ -1217,11 +1258,11 @@
       "russian": {
         "singular": {
           "common": "место",
-          "other": []
+          "other": ["местность"]
         },
         "plural": {
           "common": "места",
-          "other": []
+          "other": ["местности"]
         }
       }
     },
@@ -1232,6 +1273,7 @@
   {
     "level": "A1",
     "word_id": 44,
+    "synonym": "",
     "word": "Frage",
     "translations": {
       "english": {
@@ -1262,6 +1304,7 @@
   {
     "level": "",
     "word_id": 45,
+    "synonym": "",
     "word": "Tier",
     "translations": {
       "english": {
@@ -1292,6 +1335,7 @@
   {
     "level": "",
     "word_id": 46,
+    "synonym": "",
     "word": "Partei",
     "translations": {
       "english": {
@@ -1322,6 +1366,7 @@
   {
     "level": "A1",
     "word_id": 47,
+    "synonym": "",
     "word": "Baum",
     "translations": {
       "english": {
@@ -1352,6 +1397,7 @@
   {
     "level": "A1",
     "word_id": 48,
+    "synonym": "",
     "word": "Bruder",
     "translations": {
       "english": {
@@ -1382,6 +1428,7 @@
   {
     "level": "A1",
     "word_id": 49,
+    "synonym": "",
     "word": "Schwester",
     "translations": {
       "english": {
@@ -1412,6 +1459,7 @@
   {
     "level": "A1",
     "word_id": 50,
+    "synonym": "",
     "word": "Natur",
     "translations": {
       "english": {
@@ -1442,6 +1490,7 @@
   {
     "level": "",
     "word_id": 51,
+    "synonym": "",
     "word": "Himmel",
     "translations": {
       "english": {
@@ -1472,6 +1521,7 @@
   {
     "level": "",
     "word_id": 52,
+    "synonym": "",
     "word": "Gegend",
     "translations": {
       "english": {
@@ -1502,6 +1552,7 @@
   {
     "level": "A1",
     "word_id": 53,
+    "synonym": "",
     "word": "Aufgabe",
     "translations": {
       "english": {
@@ -1532,6 +1583,7 @@
   {
     "level": "A1",
     "word_id": 54,
+    "synonym": "",
     "word": "Sprache",
     "translations": {
       "english": {
@@ -1562,6 +1614,7 @@
   {
     "level": "",
     "word_id": 55,
+    "synonym": "",
     "word": "Kultur",
     "translations": {
       "english": {
@@ -1592,6 +1645,7 @@
   {
     "level": "A1",
     "word_id": 56,
+    "synonym": "",
     "word": "Gesicht",
     "translations": {
       "english": {
@@ -1622,6 +1676,7 @@
   {
     "level": "",
     "word_id": 57,
+    "synonym": "",
     "word": "Zukunft",
     "translations": {
       "english": {
@@ -1652,6 +1707,7 @@
   {
     "level": "",
     "word_id": 58,
+    "synonym": "",
     "word": "Vergangenheit",
     "translations": {
       "english": {
@@ -1682,6 +1738,7 @@
   {
     "level": "",
     "word_id": 59,
+    "synonym": "",
     "word": "Gegenwart",
     "translations": {
       "english": {
@@ -1712,6 +1769,7 @@
   {
     "level": "",
     "word_id": 60,
+    "synonym": "",
     "word": "Schritt",
     "translations": {
       "english": {
@@ -1742,6 +1800,7 @@
   {
     "level": "",
     "word_id": 61,
+    "synonym": "",
     "word": "Ziel",
     "translations": {
       "english": {
@@ -1772,6 +1831,7 @@
   {
     "level": "",
     "word_id": 62,
+    "synonym": "",
     "word": "Glück",
     "translations": {
       "english": {
@@ -1802,6 +1862,7 @@
   {
     "level": "A1",
     "word_id": 63,
+    "synonym": "",
     "word": "Gesundheit",
     "translations": {
       "english": {
@@ -1832,6 +1893,7 @@
   {
     "level": "",
     "word_id": 64,
+    "synonym": "",
     "word": "Wissenschaft",
     "translations": {
       "english": {
@@ -1862,6 +1924,7 @@
   {
     "level": "",
     "word_id": 65,
+    "synonym": "",
     "word": "Technologie",
     "translations": {
       "english": {
@@ -1892,6 +1955,7 @@
   {
     "level": "",
     "word_id": 66,
+    "synonym": "",
     "word": "Fortschritt",
     "translations": {
       "english": {
@@ -1922,6 +1986,7 @@
   {
     "level": "A1",
     "word_id": 67,
+    "synonym": "",
     "word": "Musik",
     "translations": {
       "english": {
@@ -1952,6 +2017,7 @@
   {
     "level": "",
     "word_id": 68,
+    "synonym": "",
     "word": "Lied",
     "translations": {
       "english": {
@@ -1982,6 +2048,7 @@
   {
     "level": "",
     "word_id": 69,
+    "synonym": "",
     "word": "Kunst",
     "translations": {
       "english": {
@@ -2012,6 +2079,7 @@
   {
     "level": "A1",
     "word_id": 70,
+    "synonym": "",
     "word": "Bild",
     "translations": {
       "english": {
@@ -2042,6 +2110,7 @@
   {
     "level": "A1",
     "word_id": 71,
+    "synonym": "",
     "word": "Farbe",
     "translations": {
       "english": {
@@ -2072,6 +2141,7 @@
   {
     "level": "A1",
     "word_id": 72,
+    "synonym": "",
     "word": "Form",
     "translations": {
       "english": {
@@ -2102,6 +2172,7 @@
   {
     "level": "",
     "word_id": 73,
+    "synonym": "",
     "word": "Stil",
     "translations": {
       "english": {
@@ -2132,6 +2203,7 @@
   {
     "level": "A1",
     "word_id": 74,
+    "synonym": "",
     "word": "Kino",
     "translations": {
       "english": {
@@ -2147,11 +2219,11 @@
       "russian": {
         "singular": {
           "common": "кино",
-          "other": []
+          "other": ["кинотеатр"]
         },
         "plural": {
           "common": "кино",
-          "other": []
+          "other": ["кинотеатры"]
         }
       }
     },
@@ -2162,6 +2234,7 @@
   {
     "level": "",
     "word_id": 75,
+    "synonym": "",
     "word": "Theater",
     "translations": {
       "english": {
@@ -2192,6 +2265,7 @@
   {
     "level": "",
     "word_id": 76,
+    "synonym": "",
     "word": "Literatur",
     "translations": {
       "english": {
@@ -2222,6 +2296,7 @@
   {
     "level": "",
     "word_id": 77,
+    "synonym": "",
     "word": "Emotion",
     "translations": {
       "english": {
@@ -2252,6 +2327,7 @@
   {
     "level": "",
     "word_id": 78,
+    "synonym": "",
     "word": "Stimmung",
     "translations": {
       "english": {
@@ -2282,6 +2358,7 @@
   {
     "level": "",
     "word_id": 79,
+    "synonym": "",
     "word": "Erfahrung",
     "translations": {
       "english": {
@@ -2312,6 +2389,7 @@
   {
     "level": "",
     "word_id": 80,
+    "synonym": "",
     "word": "Erfolg",
     "translations": {
       "english": {
@@ -2342,6 +2420,7 @@
   {
     "level": "",
     "word_id": 81,
+    "synonym": "",
     "word": "Niederlage",
     "translations": {
       "english": {
@@ -2372,6 +2451,7 @@
   {
     "level": "",
     "word_id": 82,
+    "synonym": "",
     "word": "Angst",
     "translations": {
       "english": {
@@ -2402,6 +2482,7 @@
   {
     "level": "",
     "word_id": 83,
+    "synonym": "",
     "word": "Hoffnung",
     "translations": {
       "english": {
@@ -2432,6 +2513,7 @@
   {
     "level": "",
     "word_id": 84,
+    "synonym": "",
     "word": "Traum",
     "translations": {
       "english": {
@@ -2462,6 +2544,7 @@
   {
     "level": "",
     "word_id": 85,
+    "synonym": "",
     "word": "Realität",
     "translations": {
       "english": {
@@ -2492,6 +2575,7 @@
   {
     "level": "",
     "word_id": 86,
+    "synonym": "",
     "word": "Freiheit",
     "translations": {
       "english": {
@@ -2522,6 +2606,7 @@
   {
     "level": "",
     "word_id": 87,
+    "synonym": "",
     "word": "Recht",
     "translations": {
       "english": {
@@ -2552,6 +2637,7 @@
   {
     "level": "",
     "word_id": 88,
+    "synonym": "",
     "word": "Pflicht",
     "translations": {
       "english": {
@@ -2582,6 +2668,7 @@
   {
     "level": "",
     "word_id": 89,
+    "synonym": "",
     "word": "Verantwortung",
     "translations": {
       "english": {
@@ -2612,6 +2699,7 @@
   {
     "level": "",
     "word_id": 90,
+    "synonym": "",
     "word": "Glaube",
     "translations": {
       "english": {
@@ -2642,6 +2730,7 @@
   {
     "level": "",
     "word_id": 91,
+    "synonym": "",
     "word": "Religion",
     "translations": {
       "english": {
@@ -2672,6 +2761,7 @@
   {
     "level": "A1",
     "word_id": 92,
+    "synonym": "",
     "word": "Kirche",
     "translations": {
       "english": {
@@ -2702,6 +2792,7 @@
   {
     "level": "",
     "word_id": 93,
+    "synonym": "",
     "word": "Ethik",
     "translations": {
       "english": {
@@ -2732,6 +2823,7 @@
   {
     "level": "",
     "word_id": 94,
+    "synonym": "",
     "word": "Moral",
     "translations": {
       "english": {
@@ -2746,12 +2838,12 @@
       },
       "russian": {
         "singular": {
-          "common": "нравственность",
-          "other": []
+          "common": "мораль",
+          "other": ["нравственность"]
         },
         "plural": {
-          "common": "нравственность",
-          "other": []
+          "common": "мораль",
+          "other": ["нравственность"]
         }
       }
     },
@@ -2760,6 +2852,7 @@
     "plural_form": "Moralen"
   },
   {
+    "synonym": "",
     "word": "Abend",
     "translations": {
       "english": {
@@ -2788,6 +2881,7 @@
     "plural_form": "Abende"
   },
   {
+    "synonym": "",
     "word": "Aussage",
     "translations": {
       "english": {
@@ -2816,6 +2910,7 @@
     "plural_form": "Aussagen"
   },
   {
+    "synonym": "",
     "word": "Dialog",
     "translations": {
       "english": {
@@ -2844,6 +2939,7 @@
     "plural_form": "Dialoge"
   },
   {
+    "synonym": "",
     "word": "Entschuldigung",
     "translations": {
       "english": {
@@ -2872,6 +2968,7 @@
     "plural_form": "Entschuldigungen"
   },
   {
+    "synonym": "",
     "word": "Grammatik",
     "translations": {
       "english": {
@@ -2900,6 +2997,7 @@
     "plural_form": ""
   },
   {
+    "synonym": "",
     "word": "Herr",
     "translations": {
       "english": {
@@ -2928,6 +3026,7 @@
     "plural_form": "Herren"
   },
   {
+    "synonym": "",
     "word": "Kurs",
     "translations": {
       "english": {
@@ -2956,6 +3055,7 @@
     "plural_form": "Kurse"
   },
   {
+    "synonym": "",
     "word": "Kursteilnehmer",
     "translations": {
       "english": {
@@ -2984,6 +3084,7 @@
     "plural_form": "Kursteilnehmer"
   },
   {
+    "synonym": "",
     "word": "Kursteilnehmerin",
     "translations": {
       "english": {
@@ -3012,6 +3113,7 @@
     "plural_form": "Kursteilnehmerinnen"
   },
   {
+    "synonym": "",
     "word": "Person",
     "translations": {
       "english": {
@@ -3040,6 +3142,7 @@
     "plural_form": ""
   },
   {
+    "synonym": "",
     "word": "Satz",
     "translations": {
       "english": {
@@ -3068,6 +3171,7 @@
     "plural_form": "Sätze"
   },
   {
+    "synonym": "",
     "word": "Wiedersehen",
     "translations": {
       "english": {
@@ -3096,6 +3200,7 @@
     "plural_form": ""
   },
   {
+    "synonym": "",
     "word": "Wort",
     "translations": {
       "english": {
@@ -3124,6 +3229,7 @@
     "plural_form": "Wörter"
   },
   {
+    "synonym": "",
     "word": "Adresse",
     "translations": {
       "english": {
@@ -3152,6 +3258,7 @@
     "plural_form": "Adressen"
   },
   {
+    "synonym": "",
     "word": "Anmeldung",
     "translations": {
       "english": {
@@ -3180,6 +3287,7 @@
     "plural_form": "Anmeldungen"
   },
   {
+    "synonym": "",
     "word": "Eltern",
     "translations": {
       "english": {
@@ -3208,6 +3316,7 @@
     "plural_form": ""
   },
   {
+    "synonym": "",
     "word": "Familienname",
     "translations": {
       "english": {
@@ -3236,6 +3345,7 @@
     "plural_form": "Familiennamen"
   },
   {
+    "synonym": "",
     "word": "Familienstand",
     "translations": {
       "english": {
@@ -3264,6 +3374,7 @@
     "plural_form": ""
   },
   {
+    "synonym": "",
     "word": "Formular",
     "translations": {
       "english": {
@@ -3279,11 +3390,11 @@
       "russian": {
         "singular": {
           "common": "форма",
-          "other": []
+          "other": ["бланк", "формуляр"]
         },
         "plural": {
           "common": "формы",
-          "other": []
+          "other": ["бланки", "формуляры"]
         }
       }
     },
@@ -3292,6 +3403,7 @@
     "plural_form": "Formulare"
   },
   {
+    "synonym": "",
     "word": "Geschwister",
     "translations": {
       "english": {
@@ -3320,6 +3432,7 @@
     "plural_form": "Geschwister"
   },
   {
+    "synonym": "",
     "word": "Handynummer",
     "translations": {
       "english": {
@@ -3348,6 +3461,7 @@
     "plural_form": "Handynummern"
   },
   {
+    "synonym": "",
     "word": "Hausnummer",
     "translations": {
       "english": {
@@ -3376,6 +3490,7 @@
     "plural_form": "Hausnummern"
   },
   {
+    "synonym": "",
     "word": "Heimatland",
     "translations": {
       "english": {
@@ -3404,6 +3519,7 @@
     "plural_form": "Heimatländer"
   },
   {
+    "synonym": "",
     "word": "Information",
     "translations": {
       "english": {
@@ -3432,6 +3548,7 @@
     "plural_form": "Informationen"
   },
   {
+    "synonym": "",
     "word": "Kindergarten",
     "translations": {
       "english": {
@@ -3460,6 +3577,7 @@
     "plural_form": "Kindergärten"
   },
   {
+    "synonym": "",
     "word": "Kontakt",
     "translations": {
       "english": {
@@ -3488,6 +3606,7 @@
     "plural_form": "Kontakte"
   },
   {
+    "synonym": "",
     "word": "E-Mail",
     "translations": {
       "english": {
@@ -3516,6 +3635,7 @@
     "plural_form": "E-Mails"
   },
   {
+    "synonym": "",
     "word": "Mutter",
     "translations": {
       "english": {
@@ -3544,6 +3664,7 @@
     "plural_form": "Mütter"
   },
   {
+    "synonym": "",
     "word": "Nachname",
     "translations": {
       "english": {
@@ -3572,6 +3693,7 @@
     "plural_form": "Nachnamen"
   },
   {
+    "synonym": "",
     "word": "Postleitzahl",
     "translations": {
       "english": {
@@ -3600,6 +3722,7 @@
     "plural_form": "Postleitzahlen"
   },
   {
+    "synonym": "",
     "word": "Schwägerin",
     "translations": {
       "english": {
@@ -3628,6 +3751,7 @@
     "plural_form": "Schwägerinnen"
   },
   {
+    "synonym": "",
     "word": "Schwiegertochter",
     "translations": {
       "english": {
@@ -3656,6 +3780,7 @@
     "plural_form": "Schwiegertöchter"
   },
   {
+    "synonym": "",
     "word": "Schwiegervater",
     "translations": {
       "english": {
@@ -3684,6 +3809,7 @@
     "plural_form": "Schwiegerväter"
   },
   {
+    "synonym": "",
     "word": "Sohn",
     "translations": {
       "english": {
@@ -3712,6 +3838,7 @@
     "plural_form": "Söhne"
   },
   {
+    "synonym": "",
     "word": "Straße",
     "translations": {
       "english": {
@@ -3740,6 +3867,7 @@
     "plural_form": "Straßen"
   },
   {
+    "synonym": "",
     "word": "Telefonnummer",
     "translations": {
       "english": {
@@ -3768,6 +3896,7 @@
     "plural_form": "Telefonnummern"
   },
   {
+    "synonym": "",
     "word": "Tochter",
     "translations": {
       "english": {
@@ -3796,6 +3925,7 @@
     "plural_form": "Töchter"
   },
   {
+    "synonym": "",
     "word": "Vater",
     "translations": {
       "english": {
@@ -3824,6 +3954,7 @@
     "plural_form": "Väter"
   },
   {
+    "synonym": "",
     "word": "Vorname",
     "translations": {
       "english": {
@@ -3852,6 +3983,7 @@
     "plural_form": "Vornamen"
   },
   {
+    "synonym": "",
     "word": "Wohnort",
     "translations": {
       "english": {
@@ -3880,6 +4012,7 @@
     "plural_form": "Wohnorte"
   },
   {
+    "synonym": "",
     "word": "Blatt",
     "translations": {
       "english": {
@@ -3908,6 +4041,7 @@
     "plural_form": "Blätter"
   },
   {
+    "synonym": "",
     "word": "Bleistift",
     "translations": {
       "english": {
@@ -3936,6 +4070,7 @@
     "plural_form": "Bleistifte"
   },
   {
+    "synonym": "",
     "word": "Deutschkurs",
     "translations": {
       "english": {
@@ -3964,6 +4099,7 @@
     "plural_form": "Deutschkurse"
   },
   {
+    "synonym": "",
     "word": "Dienstag",
     "translations": {
       "english": {
@@ -3992,6 +4128,7 @@
     "plural_form": "Dienstage"
   },
   {
+    "synonym": "",
     "word": "Donnerstag",
     "translations": {
       "english": {
@@ -4020,6 +4157,7 @@
     "plural_form": "Donnerstage"
   },
   {
+    "synonym": "",
     "word": "Familienfoto",
     "translations": {
       "english": {
@@ -4048,6 +4186,7 @@
     "plural_form": "Familienfotos"
   },
   {
+    "synonym": "",
     "word": "Feiertag",
     "translations": {
       "english": {
@@ -4076,6 +4215,7 @@
     "plural_form": "Feiertage"
   },
   {
+    "synonym": "",
     "word": "Fenster",
     "translations": {
       "english": {
@@ -4104,6 +4244,7 @@
     "plural_form": "Fenster"
   },
   {
+    "synonym": "",
     "word": "Foto",
     "translations": {
       "english": {
@@ -4132,6 +4273,7 @@
     "plural_form": "Fotos"
   },
   {
+    "synonym": "",
     "word": "Freitag",
     "translations": {
       "english": {
@@ -4160,6 +4302,7 @@
     "plural_form": "Freitage"
   },
   {
+    "synonym": "",
     "word": "Gruß",
     "translations": {
       "english": {
@@ -4188,6 +4331,7 @@
     "plural_form": "Grüße"
   },
   {
+    "synonym": "",
     "word": "Hausaufgabe",
     "translations": {
       "english": {
@@ -4216,6 +4360,7 @@
     "plural_form": "Hausaufgaben"
   },
   {
+    "synonym": "",
     "word": "Heft",
     "translations": {
       "english": {
@@ -4244,6 +4389,7 @@
     "plural_form": "Hefte"
   },
   {
+    "synonym": "",
     "word": "Karte",
     "translations": {
       "english": {
@@ -4272,6 +4418,7 @@
     "plural_form": "Karten"
   },
   {
+    "synonym": "",
     "word": "Kugelschreiber",
     "translations": {
       "english": {
@@ -4300,6 +4447,7 @@
     "plural_form": "Kugelschreiber"
   },
   {
+    "synonym": "",
     "word": "Kursbuch",
     "translations": {
       "english": {
@@ -4328,6 +4476,7 @@
     "plural_form": "Kursbücher"
   },
   {
+    "synonym": "",
     "word": "Kursraum",
     "translations": {
       "english": {
@@ -4356,6 +4505,7 @@
     "plural_form": "Kursräume"
   },
   {
+    "synonym": "",
     "word": "Lampe",
     "translations": {
       "english": {
@@ -4384,6 +4534,7 @@
     "plural_form": "Lampen"
   },
   {
+    "synonym": "",
     "word": "Landkarte",
     "translations": {
       "english": {
@@ -4412,6 +4563,7 @@
     "plural_form": "Landkarten"
   },
   {
+    "synonym": "",
     "word": "Lehrer",
     "translations": {
       "english": {
@@ -4440,6 +4592,7 @@
     "plural_form": "Lehrer"
   },
   {
+    "synonym": "",
     "word": "Lehrerin",
     "translations": {
       "english": {
@@ -4468,6 +4621,7 @@
     "plural_form": "Lehrerinnen"
   },
   {
+    "synonym": "",
     "word": "Liste",
     "translations": {
       "english": {
@@ -4496,6 +4650,7 @@
     "plural_form": "Listen"
   },
   {
+    "synonym": "",
     "word": "Mittwoch",
     "translations": {
       "english": {
@@ -4524,6 +4679,7 @@
     "plural_form": "Mittwoche"
   },
   {
+    "synonym": "",
     "word": "Montag",
     "translations": {
       "english": {
@@ -4552,6 +4708,7 @@
     "plural_form": "Montage"
   },
   {
+    "synonym": "",
     "word": "Papier",
     "translations": {
       "english": {
@@ -4580,6 +4737,7 @@
     "plural_form": "Papiere"
   },
   {
+    "synonym": "",
     "word": "Papierkorb",
     "translations": {
       "english": {
@@ -4608,6 +4766,7 @@
     "plural_form": "Papierkörbe"
   },
   {
+    "synonym": "",
     "word": "Pause",
     "translations": {
       "english": {
@@ -4636,6 +4795,7 @@
     "plural_form": "Pausen"
   },
   {
+    "synonym": "",
     "word": "Projektor",
     "translations": {
       "english": {
@@ -4664,6 +4824,7 @@
     "plural_form": "Projektoren"
   },
   {
+    "synonym": "",
     "word": "Radiergummi",
     "translations": {
       "english": {
@@ -4692,6 +4853,7 @@
     "plural_form": "Radiergummis"
   },
   {
+    "synonym": "",
     "word": "Raum",
     "translations": {
       "english": {
@@ -4720,6 +4882,7 @@
     "plural_form": "Räume"
   },
   {
+    "synonym": "",
     "word": "Rucksack",
     "translations": {
       "english": {
@@ -4748,6 +4911,7 @@
     "plural_form": "Rucksäcke"
   },
   {
+    "synonym": "",
     "word": "Sache",
     "translations": {
       "english": {
@@ -4776,6 +4940,7 @@
     "plural_form": "Sachen"
   },
   {
+    "synonym": "",
     "word": "Samstag",
     "translations": {
       "english": {
@@ -4804,6 +4969,7 @@
     "plural_form": "Samstage"
   },
   {
+    "synonym": "",
     "word": "Seite",
     "translations": {
       "english": {
@@ -4832,6 +4998,7 @@
     "plural_form": "Seiten"
   },
   {
+    "synonym": "",
     "word": "Schlüssel",
     "translations": {
       "english": {
@@ -4860,6 +5027,7 @@
     "plural_form": "Schlüssel"
   },
   {
+    "synonym": "",
     "word": "Sonntag",
     "translations": {
       "english": {
@@ -4888,6 +5056,7 @@
     "plural_form": "Sonntage"
   },
   {
+    "synonym": "",
     "word": "Spaß",
     "translations": {
       "english": {
@@ -4916,6 +5085,7 @@
     "plural_form": "Spaß"
   },
   {
+    "synonym": "",
     "word": "Spitzer",
     "translations": {
       "english": {
@@ -4944,6 +5114,7 @@
     "plural_form": "Spitzer"
   },
   {
+    "synonym": "",
     "word": "Stuhl",
     "translations": {
       "english": {
@@ -4972,6 +5143,7 @@
     "plural_form": "Stühle"
   },
   {
+    "synonym": "",
     "word": "Tabelle",
     "translations": {
       "english": {
@@ -5000,6 +5172,7 @@
     "plural_form": "Tabellen"
   },
   {
+    "synonym": "",
     "word": "Tafel",
     "translations": {
       "english": {
@@ -5028,6 +5201,7 @@
     "plural_form": "Tafeln"
   },
   {
+    "synonym": "",
     "word": "Tasche",
     "translations": {
       "english": {
@@ -5056,6 +5230,7 @@
     "plural_form": "Taschen"
   },
   {
+    "synonym": "",
     "word": "Text",
     "translations": {
       "english": {
@@ -5084,6 +5259,7 @@
     "plural_form": "Texte"
   },
   {
+    "synonym": "",
     "word": "Tür",
     "translations": {
       "english": {
@@ -5112,6 +5288,7 @@
     "plural_form": "Türen"
   },
   {
+    "synonym": "",
     "word": "Übung",
     "translations": {
       "english": {
@@ -5140,6 +5317,7 @@
     "plural_form": "Übungen"
   },
   {
+    "synonym": "",
     "word": "Übungsbuch",
     "translations": {
       "english": {
@@ -5168,6 +5346,7 @@
     "plural_form": "Übungsbücher"
   },
   {
+    "synonym": "",
     "word": "Wand",
     "translations": {
       "english": {
@@ -5196,6 +5375,7 @@
     "plural_form": "Wände"
   },
   {
+    "synonym": "",
     "word": "Wochenende",
     "translations": {
       "english": {
@@ -5224,6 +5404,7 @@
     "plural_form": "Wochenenden"
   },
   {
+    "synonym": "",
     "word": "Wörterbuch",
     "translations": {
       "english": {
@@ -5252,6 +5433,7 @@
     "plural_form": "Wörterbücher"
   },
   {
+    "synonym": "",
     "word": "Zettel",
     "translations": {
       "english": {
@@ -5267,7 +5449,7 @@
       "russian": {
         "singular": {
           "common": "записка",
-          "other": []
+          "other": ["наклейка", "этикетка"]
         },
         "plural": {
           "common": "записки",
@@ -5280,6 +5462,7 @@
     "plural_form": "Zettel"
   },
   {
+    "synonym": "",
     "word": "Angebot",
     "translations": {
       "english": {
@@ -5308,6 +5491,7 @@
     "plural_form": "Angebote"
   },
   {
+    "synonym": "",
     "word": "Antwort",
     "translations": {
       "english": {
@@ -5336,6 +5520,7 @@
     "plural_form": "Antworten"
   },
   {
+    "synonym": "",
     "word": "Apfelsaft",
     "translations": {
       "english": {
@@ -5364,6 +5549,7 @@
     "plural_form": "Apfelsäfte"
   },
   {
+    "synonym": "",
     "word": "Babynahrung",
     "translations": {
       "english": {
@@ -5392,6 +5578,7 @@
     "plural_form": "Babynahrungen"
   },
   {
+    "synonym": "",
     "word": "Banane",
     "translations": {
       "english": {
@@ -5420,6 +5607,7 @@
     "plural_form": "Bananen"
   },
   {
+    "synonym": "",
     "word": "Becher",
     "translations": {
       "english": {
@@ -5448,6 +5636,7 @@
     "plural_form": "Becher"
   },
   {
+    "synonym": "",
     "word": "Beispiel",
     "translations": {
       "english": {
@@ -5476,6 +5665,7 @@
     "plural_form": "Beispiele"
   },
   {
+    "synonym": "",
     "word": "Bier",
     "translations": {
       "english": {
@@ -5504,6 +5694,7 @@
     "plural_form": "Biere"
   },
   {
+    "synonym": "",
     "word": "Birne",
     "translations": {
       "english": {
@@ -5532,6 +5723,7 @@
     "plural_form": "Birnen"
   },
   {
+    "synonym": "",
     "word": "Bistro",
     "translations": {
       "english": {
@@ -5560,6 +5752,7 @@
     "plural_form": "Bistros"
   },
   {
+    "synonym": "",
     "word": "Blaubeere",
     "translations": {
       "english": {
@@ -5588,6 +5781,7 @@
     "plural_form": "Blaubeeren"
   },
   {
+    "synonym": "",
     "word": "Bohne",
     "translations": {
       "english": {
@@ -5616,6 +5810,7 @@
     "plural_form": "Bohnen"
   },
   {
+    "synonym": "",
     "word": "Brot",
     "translations": {
       "english": {
@@ -5644,6 +5839,7 @@
     "plural_form": "Brote"
   },
   {
+    "synonym": "",
     "word": "Brötchen",
     "translations": {
       "english": {
@@ -5672,6 +5868,7 @@
     "plural_form": "Brötchen"
   },
   {
+    "synonym": "",
     "word": "Cent",
     "translations": {
       "english": {
@@ -5700,6 +5897,7 @@
     "plural_form": "Cents"
   },
   {
+    "synonym": "",
     "word": "Cola",
     "translations": {
       "english": {
@@ -5728,6 +5926,7 @@
     "plural_form": "Colas"
   },
   {
+    "synonym": "",
     "word": "Couscous",
     "translations": {
       "english": {
@@ -5756,6 +5955,7 @@
     "plural_form": "Couscous"
   },
   {
+    "synonym": "",
     "word": "Dose",
     "translations": {
       "english": {
@@ -5784,6 +5984,7 @@
     "plural_form": "Dosen"
   },
   {
+    "synonym": "",
     "word": "Ei",
     "translations": {
       "english": {
@@ -5812,6 +6013,7 @@
     "plural_form": "Eier"
   },
   {
+    "synonym": "",
     "word": "Einkaufszettel",
     "translations": {
       "english": {
@@ -5840,6 +6042,7 @@
     "plural_form": "Einkaufszettel"
   },
   {
+    "synonym": "",
     "word": "Erbse",
     "translations": {
       "english": {
@@ -5868,6 +6071,7 @@
     "plural_form": "Erbsen"
   },
   {
+    "synonym": "",
     "word": "Erdbeere",
     "translations": {
       "english": {
@@ -5896,6 +6100,7 @@
     "plural_form": "Erdbeeren"
   },
   {
+    "synonym": "",
     "word": "Fisch",
     "translations": {
       "english": {
@@ -5924,6 +6129,7 @@
     "plural_form": "Fische"
   },
   {
+    "synonym": "",
     "word": "Flasche",
     "translations": {
       "english": {
@@ -5952,6 +6158,7 @@
     "plural_form": "Flaschen"
   },
   {
+    "synonym": "",
     "word": "Fleisch",
     "translations": {
       "english": {
@@ -5980,6 +6187,7 @@
     "plural_form": "Fleisch"
   },
   {
+    "synonym": "",
     "word": "Frühstück",
     "translations": {
       "english": {
@@ -6008,6 +6216,7 @@
     "plural_form": "Frühstücke"
   },
   {
+    "synonym": "",
     "word": "Gemüse",
     "translations": {
       "english": {
@@ -6036,6 +6245,7 @@
     "plural_form": "Gemüse"
   },
   {
+    "synonym": "",
     "word": "Getränk",
     "translations": {
       "english": {
@@ -6064,6 +6274,7 @@
     "plural_form": "Getränke"
   },
   {
+    "synonym": "",
     "word": "Glas",
     "translations": {
       "english": {
@@ -6092,6 +6303,7 @@
     "plural_form": "Gläser"
   },
   {
+    "synonym": "",
     "word": "Gramm",
     "translations": {
       "english": {
@@ -6120,6 +6332,7 @@
     "plural_form": "Gramm"
   },
   {
+    "synonym": "",
     "word": "Himbeere",
     "translations": {
       "english": {
@@ -6148,6 +6361,7 @@
     "plural_form": "Himbeeren"
   },
   {
+    "synonym": "",
     "word": "Honig",
     "translations": {
       "english": {
@@ -6176,6 +6390,7 @@
     "plural_form": "Honige"
   },
   {
+    "synonym": "",
     "word": "Joghurt",
     "translations": {
       "english": {
@@ -6204,6 +6419,7 @@
     "plural_form": "Joghurts"
   },
   {
+    "synonym": "",
     "word": "Kaffee",
     "translations": {
       "english": {
@@ -6232,6 +6448,7 @@
     "plural_form": "Kaffees"
   },
   {
+    "synonym": "",
     "word": "Kartoffel",
     "translations": {
       "english": {
@@ -6260,6 +6477,7 @@
     "plural_form": "Kartoffeln"
   },
   {
+    "synonym": "",
     "word": "Käse",
     "translations": {
       "english": {
@@ -6288,6 +6506,7 @@
     "plural_form": "Käse"
   },
   {
+    "synonym": "",
     "word": "Keks",
     "translations": {
       "english": {
@@ -6316,6 +6535,7 @@
     "plural_form": "Kekse"
   },
   {
+    "synonym": "",
     "word": "Kichererbse",
     "translations": {
       "english": {
@@ -6344,6 +6564,7 @@
     "plural_form": "Kichererbsen"
   },
   {
+    "synonym": "",
     "word": "Kilo",
     "translations": {
       "english": {
@@ -6372,6 +6593,7 @@
     "plural_form": "Kilos"
   },
   {
+    "synonym": "",
     "word": "Kirsche",
     "translations": {
       "english": {
@@ -6400,6 +6622,7 @@
     "plural_form": "Kirschen"
   },
   {
+    "synonym": "",
     "word": "Kiwi",
     "translations": {
       "english": {
@@ -6428,6 +6651,7 @@
     "plural_form": "Kiwis"
   },
   {
+    "synonym": "",
     "word": "Kontrolle",
     "translations": {
       "english": {
@@ -6456,6 +6680,7 @@
     "plural_form": "Kontrollen"
   },
   {
+    "synonym": "",
     "word": "Kuchen",
     "translations": {
       "english": {
@@ -6484,6 +6709,7 @@
     "plural_form": "Kuchen"
   },
   {
+    "synonym": "",
     "word": "Kunde",
     "translations": {
       "english": {
@@ -6512,6 +6738,7 @@
     "plural_form": "Kunden"
   },
   {
+    "synonym": "",
     "word": "Kundin",
     "translations": {
       "english": {
@@ -6540,6 +6767,7 @@
     "plural_form": "Kundinnen"
   },
   {
+    "synonym": "",
     "word": "Lammfleisch",
     "translations": {
       "english": {
@@ -6568,6 +6796,7 @@
     "plural_form": "Lammfleisch"
   },
   {
+    "synonym": "",
     "word": "Lebensmittel",
     "translations": {
       "english": {
@@ -6596,6 +6825,7 @@
     "plural_form": "Lebensmittel"
   },
   {
+    "synonym": "",
     "word": "Limonade",
     "translations": {
       "english": {
@@ -6624,6 +6854,7 @@
     "plural_form": "Limomanden"
   },
   {
+    "synonym": "",
     "word": "Liter",
     "translations": {
       "english": {
@@ -6652,6 +6883,7 @@
     "plural_form": "Liter"
   },
   {
+    "synonym": "",
     "word": "Mandarine",
     "translations": {
       "english": {
@@ -6680,6 +6912,7 @@
     "plural_form": "Mandarinen"
   },
   {
+    "synonym": "",
     "word": "Mango",
     "translations": {
       "english": {
@@ -6708,6 +6941,7 @@
     "plural_form": "Mangos"
   },
   {
+    "synonym": "",
     "word": "Markt",
     "translations": {
       "english": {
@@ -6736,6 +6970,7 @@
     "plural_form": "Märkte"
   },
   {
+    "synonym": "",
     "word": "Marmelade",
     "translations": {
       "english": {
@@ -6764,6 +6999,7 @@
     "plural_form": "Marmeladen"
   },
   {
+    "synonym": "",
     "word": "Mehl",
     "translations": {
       "english": {
@@ -6792,6 +7028,7 @@
     "plural_form": "Mehle"
   },
   {
+    "synonym": "",
     "word": "Mengenangabe",
     "translations": {
       "english": {
@@ -6807,11 +7044,11 @@
       "russian": {
         "singular": {
           "common": "указание на количество",
-          "other": []
+          "other": ["информация о количестве"]
         },
         "plural": {
           "common": "указания на количество",
-          "other": []
+          "other": ["информации о количестве"]
         }
       }
     },
@@ -6820,6 +7057,7 @@
     "plural_form": "Mengenangaben"
   },
   {
+    "synonym": "",
     "word": "Melone",
     "translations": {
       "english": {
@@ -6848,6 +7086,7 @@
     "plural_form": "Melonen"
   },
   {
+    "synonym": "",
     "word": "Milch",
     "translations": {
       "english": {
@@ -6876,6 +7115,7 @@
     "plural_form": "Milche"
   },
   {
+    "synonym": "",
     "word": "Milchprodukt",
     "translations": {
       "english": {
@@ -6904,6 +7144,7 @@
     "plural_form": "Milchprodukte"
   },
   {
+    "synonym": "",
     "word": "Möhre",
     "translations": {
       "english": {
@@ -6932,6 +7173,7 @@
     "plural_form": "Möhren"
   },
   {
+    "synonym": "",
     "word": "Nudel",
     "translations": {
       "english": {
@@ -6960,6 +7202,7 @@
     "plural_form": "Nudeln"
   },
   {
+    "synonym": "",
     "word": "Obst",
     "translations": {
       "english": {
@@ -6988,6 +7231,7 @@
     "plural_form": "Obst"
   },
   {
+    "synonym": "",
     "word": "Obstsalat",
     "translations": {
       "english": {
@@ -7016,6 +7260,7 @@
     "plural_form": "Obstsalate"
   },
   {
+    "synonym": "",
     "word": "Olivenöl",
     "translations": {
       "english": {
@@ -7044,6 +7289,7 @@
     "plural_form": "Olivenöle"
   },
   {
+    "synonym": "",
     "word": "Orange",
     "translations": {
       "english": {
@@ -7072,6 +7318,7 @@
     "plural_form": "Orangen"
   },
   {
+    "synonym": "",
     "word": "Packung",
     "translations": {
       "english": {
@@ -7100,6 +7347,7 @@
     "plural_form": "Packungen"
   },
   {
+    "synonym": "",
     "word": "Paprika",
     "translations": {
       "english": {
@@ -7128,6 +7376,7 @@
     "plural_form": "Paprikas"
   },
   {
+    "synonym": "",
     "word": "Partner",
     "translations": {
       "english": {
@@ -7156,6 +7405,7 @@
     "plural_form": "Partner"
   },
   {
+    "synonym": "",
     "word": "Partnerin",
     "translations": {
       "english": {
@@ -7184,6 +7434,7 @@
     "plural_form": "Partnerinnen"
   },
   {
+    "synonym": "",
     "word": "Pfund",
     "translations": {
       "english": {
@@ -7212,6 +7463,7 @@
     "plural_form": "Pfund"
   },
   {
+    "synonym": "",
     "word": "Pilz",
     "translations": {
       "english": {
@@ -7240,6 +7492,7 @@
     "plural_form": "Pilze"
   },
   {
+    "synonym": "",
     "word": "Preis",
     "translations": {
       "english": {
@@ -7268,6 +7521,7 @@
     "plural_form": "Preise"
   },
   {
+    "synonym": "",
     "word": "Pudding",
     "translations": {
       "english": {
@@ -7296,6 +7550,7 @@
     "plural_form": "Puddings"
   },
   {
+    "synonym": "",
     "word": "Reis",
     "translations": {
       "english": {
@@ -7324,6 +7579,7 @@
     "plural_form": "Reis"
   },
   {
+    "synonym": "",
     "word": "Rindfleisch",
     "translations": {
       "english": {
@@ -7352,6 +7608,7 @@
     "plural_form": "Rindfleisch"
   },
   {
+    "synonym": "",
     "word": "Saft",
     "translations": {
       "english": {
@@ -7380,6 +7637,7 @@
     "plural_form": "Säfte"
   },
   {
+    "synonym": "",
     "word": "Sahne",
     "translations": {
       "english": {
@@ -7408,6 +7666,7 @@
     "plural_form": "Sahnen"
   },
   {
+    "synonym": "",
     "word": "Salat",
     "translations": {
       "english": {
@@ -7436,6 +7695,7 @@
     "plural_form": "Salate"
   },
   {
+    "synonym": "",
     "word": "Salz",
     "translations": {
       "english": {
@@ -7464,6 +7724,7 @@
     "plural_form": "Salze"
   },
   {
+    "synonym": "",
     "word": "Schokolade",
     "translations": {
       "english": {
@@ -7492,6 +7753,7 @@
     "plural_form": "Schokoladen"
   },
   {
+    "synonym": "",
     "word": "Schweinefleisch",
     "translations": {
       "english": {
@@ -7520,6 +7782,7 @@
     "plural_form": "Schweinefleisch"
   },
   {
+    "synonym": "",
     "word": "Stück",
     "translations": {
       "english": {
@@ -7548,6 +7811,7 @@
     "plural_form": "Stücke"
   },
   {
+    "synonym": "",
     "word": "Tasse",
     "translations": {
       "english": {
@@ -7576,6 +7840,7 @@
     "plural_form": "Tassen"
   },
   {
+    "synonym": "",
     "word": "Tee",
     "translations": {
       "english": {
@@ -7604,6 +7869,7 @@
     "plural_form": "Tees"
   },
   {
+    "synonym": "",
     "word": "Tipp",
     "translations": {
       "english": {
@@ -7632,6 +7898,7 @@
     "plural_form": "Tipps"
   },
   {
+    "synonym": "",
     "word": "Tomate",
     "translations": {
       "english": {
@@ -7660,6 +7927,7 @@
     "plural_form": "Tomaten"
   },
   {
+    "synonym": "",
     "word": "Traube",
     "translations": {
       "english": {
@@ -7688,6 +7956,7 @@
     "plural_form": "Trauben"
   },
   {
+    "synonym": "",
     "word": "Verkäufer",
     "translations": {
       "english": {
@@ -7716,6 +7985,7 @@
     "plural_form": "Verkäufer"
   },
   {
+    "synonym": "",
     "word": "Verkäuferin",
     "translations": {
       "english": {
@@ -7744,6 +8014,7 @@
     "plural_form": "Verkäuferinnen"
   },
   {
+    "synonym": "",
     "word": "Wein",
     "translations": {
       "english": {
@@ -7772,6 +8043,7 @@
     "plural_form": "Weine"
   },
   {
+    "synonym": "",
     "word": "Zitrone",
     "translations": {
       "english": {
@@ -7800,6 +8072,7 @@
     "plural_form": "Zitronen"
   },
   {
+    "synonym": "",
     "word": "Zucker",
     "translations": {
       "english": {
@@ -7828,6 +8101,7 @@
     "plural_form": "Zucker"
   },
   {
+    "synonym": "",
     "word": "Zwiebel",
     "translations": {
       "english": {
@@ -7856,6 +8130,7 @@
     "plural_form": "Zwiebeln"
   },
   {
+    "synonym": "",
     "word": "Alltag",
     "translations": {
       "english": {
@@ -7884,6 +8159,7 @@
     "plural_form": "Alltag"
   },
   {
+    "synonym": "",
     "word": "Bett",
     "translations": {
       "english": {
@@ -7912,6 +8188,7 @@
     "plural_form": "Betten"
   },
   {
+    "synonym": "",
     "word": "Büro",
     "translations": {
       "english": {
@@ -7940,6 +8217,7 @@
     "plural_form": "Büros"
   },
   {
+    "synonym": "",
     "word": "Computer",
     "translations": {
       "english": {
@@ -7968,6 +8246,7 @@
     "plural_form": "Computer"
   },
   {
+    "synonym": "",
     "word": "Computerspiel",
     "translations": {
       "english": {
@@ -7996,6 +8275,7 @@
     "plural_form": "Computerspiele"
   },
   {
+    "synonym": "",
     "word": "Film",
     "translations": {
       "english": {
@@ -8024,6 +8304,7 @@
     "plural_form": "Filme"
   },
   {
+    "synonym": "",
     "word": "Freundin",
     "translations": {
       "english": {
@@ -8052,6 +8333,7 @@
     "plural_form": "Freundinnen"
   },
   {
+    "synonym": "",
     "word": "Fußball",
     "translations": {
       "english": {
@@ -8080,6 +8362,7 @@
     "plural_form": "Fußball"
   },
   {
+    "synonym": "",
     "word": "Hunger",
     "translations": {
       "english": {
@@ -8108,6 +8391,7 @@
     "plural_form": "Hunger"
   },
   {
+    "synonym": "",
     "word": "Interview",
     "translations": {
       "english": {
@@ -8136,6 +8420,7 @@
     "plural_form": "Interviews"
   },
   {
+    "synonym": "",
     "word": "Mittag",
     "translations": {
       "english": {
@@ -8164,6 +8449,7 @@
     "plural_form": "Mittage"
   },
   {
+    "synonym": "",
     "word": "Mittagspause",
     "translations": {
       "english": {
@@ -8192,6 +8478,7 @@
     "plural_form": "Mittagspausen"
   },
   {
+    "synonym": "",
     "word": "Morgen",
     "translations": {
       "english": {
@@ -8220,6 +8507,7 @@
     "plural_form": "Morgen"
   },
   {
+    "synonym": "",
     "word": "Nachmittag",
     "translations": {
       "english": {
@@ -8248,6 +8536,7 @@
     "plural_form": "Nachmittage"
   },
   {
+    "synonym": "",
     "word": "Notizzettel",
     "translations": {
       "english": {
@@ -8276,6 +8565,7 @@
     "plural_form": "Notizzettel"
   },
   {
+    "synonym": "",
     "word": "Pizza",
     "translations": {
       "english": {
@@ -8304,6 +8594,7 @@
     "plural_form": "Pizzen"
   },
   {
+    "synonym": "",
     "word": "Schluss",
     "translations": {
       "english": {
@@ -8332,6 +8623,7 @@
     "plural_form": "Schlüsse"
   },
   {
+    "synonym": "",
     "word": "Spiel",
     "translations": {
       "english": {
@@ -8360,6 +8652,7 @@
     "plural_form": "Spiele"
   },
   {
+    "synonym": "",
     "word": "Sport",
     "translations": {
       "english": {
@@ -8388,6 +8681,7 @@
     "plural_form": "Sport"
   },
   {
+    "synonym": "",
     "word": "Stunde",
     "translations": {
       "english": {
@@ -8416,6 +8710,7 @@
     "plural_form": "Stunden"
   },
   {
+    "synonym": "",
     "word": "Stundenplan",
     "translations": {
       "english": {
@@ -8444,6 +8739,7 @@
     "plural_form": "Stundenpläne"
   },
   {
+    "synonym": "",
     "word": "Supermarkt",
     "translations": {
       "english": {
@@ -8472,6 +8768,7 @@
     "plural_form": "Supermärkte"
   },
   {
+    "synonym": "",
     "word": "Uhr",
     "translations": {
       "english": {
@@ -8500,6 +8797,7 @@
     "plural_form": "Uhren"
   },
   {
+    "synonym": "",
     "word": "Uhrzeit",
     "translations": {
       "english": {
@@ -8528,6 +8826,7 @@
     "plural_form": "Uhrzeiten"
   },
   {
+    "synonym": "",
     "word": "Unterricht",
     "translations": {
       "english": {
@@ -8556,6 +8855,7 @@
     "plural_form": "Unterrichte"
   },
   {
+    "synonym": "",
     "word": "Viertel",
     "translations": {
       "english": {
@@ -8584,6 +8884,7 @@
     "plural_form": "Viertel"
   },
   {
+    "synonym": "",
     "word": "Vormittag",
     "translations": {
       "english": {
@@ -8612,6 +8913,7 @@
     "plural_form": "Vormittage"
   },
   {
+    "synonym": "",
     "word": "Wohnung",
     "translations": {
       "english": {
@@ -8640,6 +8942,7 @@
     "plural_form": "Wohnungen"
   },
   {
+    "synonym": "",
     "word": "Altbau",
     "translations": {
       "english": {
@@ -8668,6 +8971,7 @@
     "plural_form": "Altbauten"
   },
   {
+    "synonym": "",
     "word": "Angabe",
     "translations": {
       "english": {
@@ -8696,6 +9000,7 @@
     "plural_form": "Angaben"
   },
   {
+    "synonym": "",
     "word": "Anzeige",
     "translations": {
       "english": {
@@ -8724,6 +9029,7 @@
     "plural_form": "Anzeigen"
   },
   {
+    "synonym": "",
     "word": "Arbeitszimmer",
     "translations": {
       "english": {
@@ -8752,6 +9058,7 @@
     "plural_form": "Arbeitszimmer"
   },
   {
+    "synonym": "",
     "word": "Bad",
     "translations": {
       "english": {
@@ -8780,6 +9087,7 @@
     "plural_form": "Bäder"
   },
   {
+    "synonym": "",
     "word": "Badewanne",
     "translations": {
       "english": {
@@ -8808,6 +9116,7 @@
     "plural_form": "Badewannen"
   },
   {
+    "synonym": "",
     "word": "Badezimmer",
     "translations": {
       "english": {
@@ -8836,6 +9145,7 @@
     "plural_form": "Badezimmer"
   },
   {
+    "synonym": "",
     "word": "Balkon",
     "translations": {
       "english": {
@@ -8864,6 +9174,7 @@
     "plural_form": "Balkone"
   },
   {
+    "synonym": "",
     "word": "Bauernhof",
     "translations": {
       "english": {
@@ -8892,6 +9203,7 @@
     "plural_form": "Bauernhöfe"
   },
   {
+    "synonym": "",
     "word": "Besichtigungstermin",
     "translations": {
       "english": {
@@ -8920,6 +9232,7 @@
     "plural_form": "Besichtigungstermine"
   },
   {
+    "synonym": "",
     "word": "Diele",
     "translations": {
       "english": {
@@ -8948,6 +9261,7 @@
     "plural_form": "Dielen"
   },
   {
+    "synonym": "",
     "word": "Dusche",
     "translations": {
       "english": {
@@ -8976,6 +9290,7 @@
     "plural_form": "Duschen"
   },
   {
+    "synonym": "",
     "word": "Einfamilienhaus",
     "translations": {
       "english": {
@@ -9004,6 +9319,7 @@
     "plural_form": "Einfamilienhäuser"
   },
   {
+    "synonym": "",
     "word": "Elektrogerät",
     "translations": {
       "english": {
@@ -9032,6 +9348,7 @@
     "plural_form": "Elektrogeräte"
   },
   {
+    "synonym": "",
     "word": "Erdgeschoss",
     "translations": {
       "english": {
@@ -9060,6 +9377,7 @@
     "plural_form": "Erdgeschosse"
   },
   {
+    "synonym": "",
     "word": "Euro",
     "translations": {
       "english": {
@@ -9088,6 +9406,7 @@
     "plural_form": "Euro"
   },
   {
+    "synonym": "",
     "word": "Fernseher",
     "translations": {
       "english": {
@@ -9116,6 +9435,7 @@
     "plural_form": "Fernseher"
   },
   {
+    "synonym": "",
     "word": "Firma",
     "translations": {
       "english": {
@@ -9144,6 +9464,7 @@
     "plural_form": "Firmen"
   },
   {
+    "synonym": "",
     "word": "Flur",
     "translations": {
       "english": {
@@ -9172,6 +9493,7 @@
     "plural_form": "Flure"
   },
   {
+    "synonym": "",
     "word": "Garage",
     "translations": {
       "english": {
@@ -9200,6 +9522,7 @@
     "plural_form": "Garagen"
   },
   {
+    "synonym": "",
     "word": "Garten",
     "translations": {
       "english": {
@@ -9228,6 +9551,7 @@
     "plural_form": "Gärten"
   },
   {
+    "synonym": "",
     "word": "Gast",
     "translations": {
       "english": {
@@ -9256,6 +9580,7 @@
     "plural_form": "Gäste"
   },
   {
+    "synonym": "",
     "word": "Geld",
     "translations": {
       "english": {
@@ -9284,6 +9609,7 @@
     "plural_form": "Geld"
   },
   {
+    "synonym": "",
     "word": "Gerät",
     "translations": {
       "english": {
@@ -9312,6 +9638,7 @@
     "plural_form": "Geräte"
   },
   {
+    "synonym": "",
     "word": "Geschäft",
     "translations": {
       "english": {
@@ -9340,6 +9667,7 @@
     "plural_form": "Geschäfte"
   },
   {
+    "synonym": "",
     "word": "Gespräch",
     "translations": {
       "english": {
@@ -9368,6 +9696,7 @@
     "plural_form": "Gespräche"
   },
   {
+    "synonym": "",
     "word": "Größe",
     "translations": {
       "english": {
@@ -9396,6 +9725,7 @@
     "plural_form": "Größen"
   },
   {
+    "synonym": "",
     "word": "Hauptsache",
     "translations": {
       "english": {
@@ -9424,6 +9754,7 @@
     "plural_form": "Hauptsachen"
   },
   {
+    "synonym": "",
     "word": "Haustier",
     "translations": {
       "english": {
@@ -9452,6 +9783,7 @@
     "plural_form": "Haustiere"
   },
   {
+    "synonym": "",
     "word": "Heizung",
     "translations": {
       "english": {
@@ -9480,6 +9812,7 @@
     "plural_form": "Heizungen"
   },
   {
+    "synonym": "",
     "word": "Herd",
     "translations": {
       "english": {
@@ -9508,6 +9841,7 @@
     "plural_form": "Herd"
   },
   {
+    "synonym": "",
     "word": "Hilfe",
     "translations": {
       "english": {
@@ -9536,6 +9870,7 @@
     "plural_form": "Hilfen"
   },
   {
+    "synonym": "",
     "word": "Hochhaus",
     "translations": {
       "english": {
@@ -9564,6 +9899,7 @@
     "plural_form": "Hochhäuser"
   },
   {
+    "synonym": "",
     "word": "Immobilie",
     "translations": {
       "english": {
@@ -9592,6 +9928,7 @@
     "plural_form": "Immobilien"
   },
   {
+    "synonym": "",
     "word": "Juni",
     "translations": {
       "english": {
@@ -9620,6 +9957,7 @@
     "plural_form": "Juni"
   },
   {
+    "synonym": "",
     "word": "Kaffeemaschine",
     "translations": {
       "english": {
@@ -9648,6 +9986,7 @@
     "plural_form": "Kaffeemaschinen"
   },
   {
+    "synonym": "",
     "word": "Kaution",
     "translations": {
       "english": {
@@ -9676,6 +10015,7 @@
     "plural_form": "Kautionen"
   },
   {
+    "synonym": "",
     "word": "Keller",
     "translations": {
       "english": {
@@ -9704,6 +10044,7 @@
     "plural_form": "Keller"
   },
   {
+    "synonym": "",
     "word": "Kinderzimmer",
     "translations": {
       "english": {
@@ -9732,6 +10073,7 @@
     "plural_form": "Kinderzimmer"
   },
   {
+    "synonym": "",
     "word": "Kleiderschrank",
     "translations": {
       "english": {
@@ -9760,6 +10102,7 @@
     "plural_form": "Kleiderschränke"
   },
   {
+    "synonym": "",
     "word": "Küche",
     "translations": {
       "english": {
@@ -9788,6 +10131,7 @@
     "plural_form": "Küchen"
   },
   {
+    "synonym": "",
     "word": "Kühlschrank",
     "translations": {
       "english": {
@@ -9816,6 +10160,7 @@
     "plural_form": "Kühlschränke"
   },
   {
+    "synonym": "",
     "word": "Mehrfamilienhaus",
     "translations": {
       "english": {
@@ -9844,6 +10189,7 @@
     "plural_form": "Mehrfamilienhäuser"
   },
   {
+    "synonym": "",
     "word": "Miete",
     "translations": {
       "english": {
@@ -9872,6 +10218,7 @@
     "plural_form": "Mieten"
   },
   {
+    "synonym": "",
     "word": "Möbel",
     "translations": {
       "english": {
@@ -9900,6 +10247,7 @@
     "plural_form": "Möbel"
   },
   {
+    "synonym": "",
     "word": "Monat",
     "translations": {
       "english": {
@@ -9928,6 +10276,7 @@
     "plural_form": "Monate"
   },
   {
+    "synonym": "",
     "word": "Monatsmiete",
     "translations": {
       "english": {
@@ -9956,6 +10305,7 @@
     "plural_form": "Monatsmieten"
   },
   {
+    "synonym": "",
     "word": "Müll",
     "translations": {
       "english": {
@@ -9984,6 +10334,7 @@
     "plural_form": "Müll"
   },
   {
+    "synonym": "",
     "word": "Nebenkosten",
     "translations": {
       "english": {
@@ -10012,6 +10363,7 @@
     "plural_form": "Nebenkosten"
   },
   {
+    "synonym": "",
     "word": "Obergeschoss",
     "translations": {
       "english": {
@@ -10027,11 +10379,11 @@
       "russian": {
         "singular": {
           "common": "верхний этаж",
-          "other": ["верхний этаж"]
+          "other": []
         },
         "plural": {
           "common": "верхние этажи",
-          "other": ["верхние этажи"]
+          "other": []
         }
       }
     },
@@ -10040,6 +10392,7 @@
     "plural_form": "Obergeschosse"
   },
   {
+    "synonym": "",
     "word": "Pflanze",
     "translations": {
       "english": {
@@ -10068,6 +10421,7 @@
     "plural_form": "Pflanzen"
   },
   {
+    "synonym": "",
     "word": "Plan",
     "translations": {
       "english": {
@@ -10096,6 +10450,7 @@
     "plural_form": "Pläne"
   },
   {
+    "synonym": "",
     "word": "Platz",
     "translations": {
       "english": {
@@ -10124,6 +10479,7 @@
     "plural_form": "Plätze"
   },
   {
+    "synonym": "",
     "word": "Quadratmeter",
     "translations": {
       "english": {
@@ -10152,6 +10508,7 @@
     "plural_form": "Quadratmeter"
   },
   {
+    "synonym": "",
     "word": "Regal",
     "translations": {
       "english": {
@@ -10180,6 +10537,7 @@
     "plural_form": "Regale"
   },
   {
+    "synonym": "",
     "word": "Reihenhaus",
     "translations": {
       "english": {
@@ -10208,6 +10566,7 @@
     "plural_form": "Reihenhäuser"
   },
   {
+    "synonym": "",
     "word": "Schlafzimmer",
     "translations": {
       "english": {
@@ -10236,6 +10595,7 @@
     "plural_form": "Schlafzimmer"
   },
   {
+    "synonym": "",
     "word": "Schrank",
     "translations": {
       "english": {
@@ -10264,6 +10624,7 @@
     "plural_form": "Schränke"
   },
   {
+    "synonym": "",
     "word": "Sessel",
     "translations": {
       "english": {
@@ -10292,6 +10653,7 @@
     "plural_form": "Sessel"
   },
   {
+    "synonym": "",
     "word": "Sofa",
     "translations": {
       "english": {
@@ -10320,6 +10682,7 @@
     "plural_form": "Sofas"
   },
   {
+    "synonym": "",
     "word": "Sonderangebot",
     "translations": {
       "english": {
@@ -10348,6 +10711,7 @@
     "plural_form": "Sonderangebote"
   },
   {
+    "synonym": "",
     "word": "Sonne",
     "translations": {
       "english": {
@@ -10376,6 +10740,7 @@
     "plural_form": "Sonnen"
   },
   {
+    "synonym": "",
     "word": "Sprachschule",
     "translations": {
       "english": {
@@ -10404,6 +10769,7 @@
     "plural_form": "Sprachschulen"
   },
   {
+    "synonym": "",
     "word": "Spülmaschine",
     "translations": {
       "english": {
@@ -10432,6 +10798,7 @@
     "plural_form": "Spülmaschinen"
   },
   {
+    "synonym": "",
     "word": "Teppich",
     "translations": {
       "english": {
@@ -10460,6 +10827,7 @@
     "plural_form": "Teppiche"
   },
   {
+    "synonym": "",
     "word": "Terrasse",
     "translations": {
       "english": {
@@ -10488,6 +10856,7 @@
     "plural_form": "Terrassen"
   },
   {
+    "synonym": "",
     "word": "Toilette",
     "translations": {
       "english": {
@@ -10516,6 +10885,7 @@
     "plural_form": "Toiletten"
   },
   {
+    "synonym": "",
     "word": "Traumwohnung",
     "translations": {
       "english": {
@@ -10544,6 +10914,7 @@
     "plural_form": "Traumwohnungen"
   },
   {
+    "synonym": "",
     "word": "Waschmaschine",
     "translations": {
       "english": {
@@ -10572,6 +10943,7 @@
     "plural_form": "Waschmaschinen"
   },
   {
+    "synonym": "",
     "word": "WC",
     "translations": {
       "english": {
@@ -10600,6 +10972,7 @@
     "plural_form": "WCs"
   },
   {
+    "synonym": "",
     "word": "Wohnungsanzeige",
     "translations": {
       "english": {
@@ -10628,6 +11001,7 @@
     "plural_form": "Wohnungsanzeigen"
   },
   {
+    "synonym": "",
     "word": "Wohnungssuche",
     "translations": {
       "english": {
@@ -10656,6 +11030,7 @@
     "plural_form": "Wohnungssuchen"
   },
   {
+    "synonym": "",
     "word": "Wohnzimmer",
     "translations": {
       "english": {
@@ -10684,6 +11059,7 @@
     "plural_form": "Wohnzimmer"
   },
   {
+    "synonym": "",
     "word": "Zeitung",
     "translations": {
       "english": {
@@ -10712,6 +11088,7 @@
     "plural_form": "Zeitungen"
   },
   {
+    "synonym": "",
     "word": "Zentrum",
     "translations": {
       "english": {
@@ -10740,6 +11117,7 @@
     "plural_form": "Zentren"
   },
   {
+    "synonym": "",
     "word": "Ampel",
     "translations": {
       "english": {
@@ -10768,6 +11146,7 @@
     "plural_form": "Ampeln"
   },
   {
+    "synonym": "",
     "word": "Ankunftszeit",
     "translations": {
       "english": {
@@ -10796,6 +11175,7 @@
     "plural_form": "Ankunftszeiten"
   },
   {
+    "synonym": "",
     "word": "Ansage",
     "translations": {
       "english": {
@@ -10824,6 +11204,7 @@
     "plural_form": "Ansagen"
   },
   {
+    "synonym": "",
     "word": "Apotheke",
     "translations": {
       "english": {
@@ -10852,6 +11233,7 @@
     "plural_form": "Apotheken"
   },
   {
+    "synonym": "",
     "word": "Arzt",
     "translations": {
       "english": {
@@ -10880,6 +11262,7 @@
     "plural_form": "Ärzte"
   },
   {
+    "synonym": "",
     "word": "Ärztin",
     "translations": {
       "english": {
@@ -10908,6 +11291,7 @@
     "plural_form": "Ärztinnen"
   },
   {
+    "synonym": "",
     "word": "Auskunft",
     "translations": {
       "english": {
@@ -10922,12 +11306,12 @@
       },
       "russian": {
         "singular": {
-          "common": "сведения",
-          "other": ["информация"]
+          "common": "информация",
+          "other": ["сведения", "справка"]
         },
         "plural": {
-          "common": "сведения",
-          "other": ["информации"]
+          "common": "информации",
+          "other": ["сведения", "справки"]
         }
       }
     },
@@ -10936,6 +11320,7 @@
     "plural_form": "Auskünfte"
   },
   {
+    "synonym": "",
     "word": "Bahn",
     "translations": {
       "english": {
@@ -10964,6 +11349,7 @@
     "plural_form": "Bahnen"
   },
   {
+    "synonym": "",
     "word": "Bahnhof",
     "translations": {
       "english": {
@@ -10992,6 +11378,7 @@
     "plural_form": "Bahnhöfe"
   },
   {
+    "synonym": "",
     "word": "Ball",
     "translations": {
       "english": {
@@ -11020,6 +11407,7 @@
     "plural_form": "Bälle"
   },
   {
+    "synonym": "",
     "word": "Bank",
     "translations": {
       "english": {
@@ -11048,6 +11436,7 @@
     "plural_form": "Banken"
   },
   {
+    "synonym": "",
     "word": "Bibliothek",
     "translations": {
       "english": {
@@ -11076,6 +11465,7 @@
     "plural_form": "Bibliotheken"
   },
   {
+    "synonym": "",
     "word": "Bürgerbüro",
     "translations": {
       "english": {
@@ -11104,6 +11494,7 @@
     "plural_form": "Bürgerbüros"
   },
   {
+    "synonym": "",
     "word": "Bus",
     "translations": {
       "english": {
@@ -11132,6 +11523,7 @@
     "plural_form": "Busse"
   },
   {
+    "synonym": "",
     "word": "Bushaltestelle",
     "translations": {
       "english": {
@@ -11160,6 +11552,7 @@
     "plural_form": "Bushaltestellen"
   },
   {
+    "synonym": "",
     "word": "Café",
     "translations": {
       "english": {
@@ -11188,6 +11581,7 @@
     "plural_form": "Cafés"
   },
   {
+    "synonym": "",
     "word": "Durchsage",
     "translations": {
       "english": {
@@ -11216,6 +11610,7 @@
     "plural_form": "Durchsagen"
   },
   {
+    "synonym": "",
     "word": "Einzelfahrkarte",
     "translations": {
       "english": {
@@ -11244,6 +11639,7 @@
     "plural_form": "Einzelfahrkarten"
   },
   {
+    "synonym": "",
     "word": "Erwachsene",
     "translations": {
       "english": {
@@ -11272,6 +11668,7 @@
     "plural_form": "Erwachsene"
   },
   {
+    "synonym": "",
     "word": "Fahrgast",
     "translations": {
       "english": {
@@ -11300,6 +11697,7 @@
     "plural_form": "Fahrgäste"
   },
   {
+    "synonym": "",
     "word": "Fahrkarte",
     "translations": {
       "english": {
@@ -11328,6 +11726,7 @@
     "plural_form": "Fahrkarten"
   },
   {
+    "synonym": "",
     "word": "Fahrrad",
     "translations": {
       "english": {
@@ -11356,6 +11755,7 @@
     "plural_form": "Fahrräder"
   },
   {
+    "synonym": "",
     "word": "Flughafen",
     "translations": {
       "english": {
@@ -11384,6 +11784,7 @@
     "plural_form": "Flughäfen"
   },
   {
+    "synonym": "",
     "word": "Gebäude",
     "translations": {
       "english": {
@@ -11412,6 +11813,7 @@
     "plural_form": "Gebäude"
   },
   {
+    "synonym": "",
     "word": "Gleis",
     "translations": {
       "english": {
@@ -11440,6 +11842,7 @@
     "plural_form": "Gleise"
   },
   {
+    "synonym": "",
     "word": "Haltestelle",
     "translations": {
       "english": {
@@ -11468,6 +11871,7 @@
     "plural_form": "Haltestellen"
   },
   {
+    "synonym": "",
     "word": "Hauptbahnhof",
     "translations": {
       "english": {
@@ -11496,6 +11900,7 @@
     "plural_form": "Hauptbahnhöfe"
   },
   {
+    "synonym": "",
     "word": "Hotel",
     "translations": {
       "english": {
@@ -11524,6 +11929,7 @@
     "plural_form": "Hotels"
   },
   {
+    "synonym": "",
     "word": "Informationsschalter",
     "translations": {
       "english": {
@@ -11552,6 +11958,7 @@
     "plural_form": "Informationsschalter"
   },
   {
+    "synonym": "",
     "word": "Intercity",
     "translations": {
       "english": {
@@ -11580,6 +11987,7 @@
     "plural_form": "Intercity-Züge"
   },
   {
+    "synonym": "",
     "word": "Jobcenter",
     "translations": {
       "english": {
@@ -11608,6 +12016,7 @@
     "plural_form": "Jobcenter"
   },
   {
+    "synonym": "",
     "word": "Krankenhaus",
     "translations": {
       "english": {
@@ -11636,6 +12045,7 @@
     "plural_form": "Krankenhäuser"
   },
   {
+    "synonym": "",
     "word": "Krankenkasse",
     "translations": {
       "english": {
@@ -11664,6 +12074,7 @@
     "plural_form": "Krankenkassen"
   },
   {
+    "synonym": "",
     "word": "Kreuzung",
     "translations": {
       "english": {
@@ -11692,6 +12103,7 @@
     "plural_form": "Kreuzungen"
   },
   {
+    "synonym": "",
     "word": "Kurzstrecke",
     "translations": {
       "english": {
@@ -11720,6 +12132,7 @@
     "plural_form": "Kurzstrecken"
   },
   {
+    "synonym": "",
     "word": "Linie",
     "translations": {
       "english": {
@@ -11748,6 +12161,7 @@
     "plural_form": "Linien"
   },
   {
+    "synonym": "",
     "word": "Lösung",
     "translations": {
       "english": {
@@ -11776,6 +12190,7 @@
     "plural_form": "Lösungen"
   },
   {
+    "synonym": "",
     "word": "Meter",
     "translations": {
       "english": {
@@ -11804,6 +12219,7 @@
     "plural_form": "Meter"
   },
   {
+    "synonym": "",
     "word": "Metzger",
     "translations": {
       "english": {
@@ -11832,6 +12248,7 @@
     "plural_form": "Metzger"
   },
   {
+    "synonym": "",
     "word": "Minute",
     "translations": {
       "english": {
@@ -11860,6 +12277,7 @@
     "plural_form": "Minuten"
   },
   {
+    "synonym": "",
     "word": "Mobilität",
     "translations": {
       "english": {
@@ -11888,6 +12306,7 @@
     "plural_form": "Mobilitäten"
   },
   {
+    "synonym": "",
     "word": "Motorrad",
     "translations": {
       "english": {
@@ -11916,6 +12335,7 @@
     "plural_form": "Motorräder"
   },
   {
+    "synonym": "",
     "word": "Orientierung",
     "translations": {
       "english": {
@@ -11944,6 +12364,7 @@
     "plural_form": "Orientierungen"
   },
   {
+    "synonym": "",
     "word": "Park",
     "translations": {
       "english": {
@@ -11972,6 +12393,7 @@
     "plural_form": "Parks"
   },
   {
+    "synonym": "",
     "word": "Parkgebühr",
     "translations": {
       "english": {
@@ -12000,6 +12422,7 @@
     "plural_form": "Parkgebühren"
   },
   {
+    "synonym": "",
     "word": "Parkplatz",
     "translations": {
       "english": {
@@ -12028,6 +12451,7 @@
     "plural_form": "Parkplätze"
   },
   {
+    "synonym": "",
     "word": "Polizei",
     "translations": {
       "english": {
@@ -12056,6 +12480,7 @@
     "plural_form": "Polizei"
   },
   {
+    "synonym": "",
     "word": "Position",
     "translations": {
       "english": {
@@ -12084,6 +12509,7 @@
     "plural_form": "Positionen"
   },
   {
+    "synonym": "",
     "word": "Post",
     "translations": {
       "english": {
@@ -12112,6 +12538,7 @@
     "plural_form": "Posts"
   },
   {
+    "synonym": "",
     "word": "Rathaus",
     "translations": {
       "english": {
@@ -12140,6 +12567,7 @@
     "plural_form": "Rathäuser"
   },
   {
+    "synonym": "",
     "word": "Regionalbahn",
     "translations": {
       "english": {
@@ -12168,6 +12596,7 @@
     "plural_form": "Regionalbahnen"
   },
   {
+    "synonym": "",
     "word": "Restaurant",
     "translations": {
       "english": {
@@ -12196,6 +12625,7 @@
     "plural_form": "Restaurants"
   },
   {
+    "synonym": "",
     "word": "Ruhe",
     "translations": {
       "english": {
@@ -12224,6 +12654,7 @@
     "plural_form": "Ruhe"
   },
   {
+    "synonym": "",
     "word": "Schienenersatzverkehr",
     "translations": {
       "english": {
@@ -12252,6 +12683,7 @@
     "plural_form": "Schienenersatzverkehre"
   },
   {
+    "synonym": "",
     "word": "Schwimmbad",
     "translations": {
       "english": {
@@ -12280,6 +12712,7 @@
     "plural_form": "Schwimmbäder"
   },
   {
+    "synonym": "",
     "word": "Stadtplan",
     "translations": {
       "english": {
@@ -12308,6 +12741,7 @@
     "plural_form": "Stadtpläne"
   },
   {
+    "synonym": "",
     "word": "Stadtwald",
     "translations": {
       "english": {
@@ -12336,6 +12770,7 @@
     "plural_form": "Stadtwälder"
   },
   {
+    "synonym": "",
     "word": "Straßenbahn",
     "translations": {
       "english": {
@@ -12364,6 +12799,7 @@
     "plural_form": "Straßenbahnen"
   },
   {
+    "synonym": "",
     "word": "Tageskarte",
     "translations": {
       "english": {
@@ -12392,6 +12828,7 @@
     "plural_form": "Tageskarten"
   },
   {
+    "synonym": "",
     "word": "Taxi",
     "translations": {
       "english": {
@@ -12420,6 +12857,7 @@
     "plural_form": "Taxis"
   },
   {
+    "synonym": "",
     "word": "Verfügung",
     "translations": {
       "english": {
@@ -12448,6 +12886,7 @@
     "plural_form": "Verfügungen"
   },
   {
+    "synonym": "",
     "word": "Verkehrsmittel",
     "translations": {
       "english": {
@@ -12476,6 +12915,7 @@
     "plural_form": "Verkehrsmittel"
   },
   {
+    "synonym": "",
     "word": "Volkshochschule",
     "translations": {
       "english": {
@@ -12504,6 +12944,7 @@
     "plural_form": "Volkshochschulen"
   },
   {
+    "synonym": "",
     "word": "Winter",
     "translations": {
       "english": {
@@ -12532,6 +12973,7 @@
     "plural_form": "Winter"
   },
   {
+    "synonym": "",
     "word": "Wochenmarkt",
     "translations": {
       "english": {
@@ -12560,6 +13002,7 @@
     "plural_form": "Wochenmärkte"
   },
   {
+    "synonym": "",
     "word": "Zug",
     "translations": {
       "english": {
@@ -12588,6 +13031,7 @@
     "plural_form": "Züge"
   },
   {
+    "synonym": "",
     "word": "Arbeitstag",
     "translations": {
       "english": {
@@ -12603,7 +13047,7 @@
       "russian": {
         "singular": {
           "common": "рабочий день",
-          "other": ["рабочие дни"]
+          "other": []
         },
         "plural": {
           "common": "рабочие дни",
@@ -12616,6 +13060,7 @@
     "plural_form": "Arbeitstage"
   },
   {
+    "synonym": "",
     "word": "Ausbildung",
     "translations": {
       "english": {
@@ -12644,6 +13089,7 @@
     "plural_form": "Ausbildungen"
   },
   {
+    "synonym": "",
     "word": "Aushilfe",
     "translations": {
       "english": {
@@ -12672,6 +13118,7 @@
     "plural_form": "Aushilfen"
   },
   {
+    "synonym": "",
     "word": "Automechaniker",
     "translations": {
       "english": {
@@ -12700,6 +13147,7 @@
     "plural_form": "Automechaniker"
   },
   {
+    "synonym": "",
     "word": "Automechanikerin",
     "translations": {
       "english": {
@@ -12728,6 +13176,7 @@
     "plural_form": "Automechanikerinnen"
   },
   {
+    "synonym": "",
     "word": "Bäcker",
     "translations": {
       "english": {
@@ -12756,6 +13205,7 @@
     "plural_form": "Bäcker"
   },
   {
+    "synonym": "",
     "word": "Bäckerin",
     "translations": {
       "english": {
@@ -12784,6 +13234,7 @@
     "plural_form": "Bäckerinnen"
   },
   {
+    "synonym": "",
     "word": "Bürokauffrau",
     "translations": {
       "english": {
@@ -12812,6 +13263,7 @@
     "plural_form": "Bürokauffrauen"
   },
   {
+    "synonym": "",
     "word": "Bürokaufmann",
     "translations": {
       "english": {
@@ -12840,6 +13292,7 @@
     "plural_form": "Bürokaufmänner"
   },
   {
+    "synonym": "",
     "word": "Chef",
     "translations": {
       "english": {
@@ -12868,6 +13321,7 @@
     "plural_form": "Chefs"
   },
   {
+    "synonym": "",
     "word": "Chefin",
     "translations": {
       "english": {
@@ -12896,6 +13350,7 @@
     "plural_form": "Chefinnen"
   },
   {
+    "synonym": "",
     "word": "Computerprogramm",
     "translations": {
       "english": {
@@ -12924,6 +13379,7 @@
     "plural_form": "Computerprogramme"
   },
   {
+    "synonym": "",
     "word": "Computersystem",
     "translations": {
       "english": {
@@ -12952,6 +13408,7 @@
     "plural_form": "Computersysteme"
   },
   {
+    "synonym": "",
     "word": "Fahrer",
     "translations": {
       "english": {
@@ -12980,6 +13437,7 @@
     "plural_form": "Fahrer"
   },
   {
+    "synonym": "",
     "word": "Feierabend",
     "translations": {
       "english": {
@@ -13008,6 +13466,7 @@
     "plural_form": "Feierabende"
   },
   {
+    "synonym": "",
     "word": "Führerschein",
     "translations": {
       "english": {
@@ -13036,6 +13495,7 @@
     "plural_form": "Führerscheine"
   },
   {
+    "synonym": "",
     "word": "Fußballspieler",
     "translations": {
       "english": {
@@ -13064,6 +13524,7 @@
     "plural_form": "Fußballspieler"
   },
   {
+    "synonym": "",
     "word": "Gitarre",
     "translations": {
       "english": {
@@ -13092,6 +13553,7 @@
     "plural_form": "Gitarren"
   },
   {
+    "synonym": "",
     "word": "Hausfrau",
     "translations": {
       "english": {
@@ -13120,6 +13582,7 @@
     "plural_form": "Hausfrauen"
   },
   {
+    "synonym": "",
     "word": "Hausmann",
     "translations": {
       "english": {
@@ -13148,6 +13611,7 @@
     "plural_form": "Hausmänner"
   },
   {
+    "synonym": "",
     "word": "Hund",
     "translations": {
       "english": {
@@ -13176,6 +13640,7 @@
     "plural_form": "Hunde"
   },
   {
+    "synonym": "",
     "word": "Kantine",
     "translations": {
       "english": {
@@ -13204,6 +13669,7 @@
     "plural_form": "Kantinen"
   },
   {
+    "synonym": "",
     "word": "Kasse",
     "translations": {
       "english": {
@@ -13232,6 +13698,7 @@
     "plural_form": "Kassen"
   },
   {
+    "synonym": "",
     "word": "Kassierer",
     "translations": {
       "english": {
@@ -13260,6 +13727,7 @@
     "plural_form": "Kassierer"
   },
   {
+    "synonym": "",
     "word": "Kassiererin",
     "translations": {
       "english": {
@@ -13288,6 +13756,7 @@
     "plural_form": "Kassiererinnen"
   },
   {
+    "synonym": "",
     "word": "Kauffrau",
     "translations": {
       "english": {
@@ -13316,6 +13785,7 @@
     "plural_form": "Kauffrauen"
   },
   {
+    "synonym": "",
     "word": "Kellner",
     "translations": {
       "english": {
@@ -13344,6 +13814,7 @@
     "plural_form": "Kellner"
   },
   {
+    "synonym": "",
     "word": "Kellnerin",
     "translations": {
       "english": {
@@ -13372,6 +13843,7 @@
     "plural_form": "Kellnerinnen"
   },
   {
+    "synonym": "",
     "word": "Koch",
     "translations": {
       "english": {
@@ -13400,6 +13872,7 @@
     "plural_form": "Köche"
   },
   {
+    "synonym": "",
     "word": "Köchin",
     "translations": {
       "english": {
@@ -13428,6 +13901,7 @@
     "plural_form": "Köchinnen"
   },
   {
+    "synonym": "",
     "word": "Kollege",
     "translations": {
       "english": {
@@ -13456,6 +13930,7 @@
     "plural_form": "Kollegen"
   },
   {
+    "synonym": "",
     "word": "Kollegin",
     "translations": {
       "english": {
@@ -13484,6 +13959,7 @@
     "plural_form": "Kolleginnen"
   },
   {
+    "synonym": "",
     "word": "Konzert",
     "translations": {
       "english": {
@@ -13512,6 +13988,7 @@
     "plural_form": "Konzerte"
   },
   {
+    "synonym": "",
     "word": "Kraftfahrzeug",
     "translations": {
       "english": {
@@ -13540,6 +14017,7 @@
     "plural_form": "Kraftfahrzeuge"
   },
   {
+    "synonym": "",
     "word": "Krankenpfleger",
     "translations": {
       "english": {
@@ -13568,6 +14046,7 @@
     "plural_form": "Krankenpfleger"
   },
   {
+    "synonym": "",
     "word": "Krankenschwester",
     "translations": {
       "english": {
@@ -13596,6 +14075,7 @@
     "plural_form": "Krankenschwestern"
   },
   {
+    "synonym": "",
     "word": "Leute",
     "translations": {
       "english": {
@@ -13624,6 +14104,7 @@
     "plural_form": "Leute"
   },
   {
+    "synonym": "",
     "word": "Mathematik",
     "translations": {
       "english": {
@@ -13652,6 +14133,7 @@
     "plural_form": "Mathematik"
   },
   {
+    "synonym": "",
     "word": "Mechaniker",
     "translations": {
       "english": {
@@ -13680,6 +14162,7 @@
     "plural_form": "Mechaniker"
   },
   {
+    "synonym": "",
     "word": "Mittagessen",
     "translations": {
       "english": {
@@ -13708,6 +14191,7 @@
     "plural_form": "Mittagessen"
   },
   {
+    "synonym": "",
     "word": "Moment",
     "translations": {
       "english": {
@@ -13736,6 +14220,7 @@
     "plural_form": "Momente"
   },
   {
+    "synonym": "",
     "word": "Musiklehrer",
     "translations": {
       "english": {
@@ -13764,6 +14249,7 @@
     "plural_form": "Musiklehrer"
   },
   {
+    "synonym": "",
     "word": "Musiklehrerin",
     "translations": {
       "english": {
@@ -13792,6 +14278,7 @@
     "plural_form": "Musiklehrerinnen"
   },
   {
+    "synonym": "",
     "word": "Nachtdienst",
     "translations": {
       "english": {
@@ -13820,6 +14307,7 @@
     "plural_form": "Nachtdienste"
   },
   {
+    "synonym": "",
     "word": "Pizzafahrer",
     "translations": {
       "english": {
@@ -13848,6 +14336,7 @@
     "plural_form": "Pizzafahrer"
   },
   {
+    "synonym": "",
     "word": "Pizzeria",
     "translations": {
       "english": {
@@ -13876,6 +14365,7 @@
     "plural_form": "Pizzerias"
   },
   {
+    "synonym": "",
     "word": "Pflege",
     "translations": {
       "english": {
@@ -13904,6 +14394,7 @@
     "plural_form": "Pflege"
   },
   {
+    "synonym": "",
     "word": "Radio",
     "translations": {
       "english": {
@@ -13932,6 +14423,7 @@
     "plural_form": "Radios"
   },
   {
+    "synonym": "",
     "word": "Rentner",
     "translations": {
       "english": {
@@ -13960,6 +14452,7 @@
     "plural_form": "Rentner"
   },
   {
+    "synonym": "",
     "word": "Reparatur",
     "translations": {
       "english": {
@@ -13988,6 +14481,7 @@
     "plural_form": "Reparaturen"
   },
   {
+    "synonym": "",
     "word": "Reporter",
     "translations": {
       "english": {
@@ -14016,6 +14510,7 @@
     "plural_form": "Reporter"
   },
   {
+    "synonym": "",
     "word": "Roman",
     "translations": {
       "english": {
@@ -14044,6 +14539,7 @@
     "plural_form": "Romane"
   },
   {
+    "synonym": "",
     "word": "Schüler",
     "translations": {
       "english": {
@@ -14072,6 +14568,7 @@
     "plural_form": "Schüler"
   },
   {
+    "synonym": "",
     "word": "Schülerin",
     "translations": {
       "english": {
@@ -14100,6 +14597,7 @@
     "plural_form": "Schülerinnen"
   },
   {
+    "synonym": "",
     "word": "Stress",
     "translations": {
       "english": {
@@ -14128,6 +14626,7 @@
     "plural_form": "Stresse"
   },
   {
+    "synonym": "",
     "word": "Student",
     "translations": {
       "english": {
@@ -14156,6 +14655,7 @@
     "plural_form": "Studenten"
   },
   {
+    "synonym": "",
     "word": "Studentin",
     "translations": {
       "english": {
@@ -14184,6 +14684,7 @@
     "plural_form": "Studentinnen"
   },
   {
+    "synonym": "",
     "word": "Taxifahrer",
     "translations": {
       "english": {
@@ -14212,6 +14713,7 @@
     "plural_form": "Taxifahrer"
   },
   {
+    "synonym": "",
     "word": "Taxifahrerin",
     "translations": {
       "english": {
@@ -14240,6 +14742,7 @@
     "plural_form": "Taxifahrerinnen"
   },
   {
+    "synonym": "",
     "word": "Techniker",
     "translations": {
       "english": {
@@ -14268,6 +14771,7 @@
     "plural_form": "Techniker"
   },
   {
+    "synonym": "",
     "word": "Telefon",
     "translations": {
       "english": {
@@ -14296,6 +14800,7 @@
     "plural_form": "Telefone"
   },
   {
+    "synonym": "",
     "word": "Traumberuf",
     "translations": {
       "english": {
@@ -14324,6 +14829,7 @@
     "plural_form": "Traumberufe"
   },
   {
+    "synonym": "",
     "word": "Werkstatt",
     "translations": {
       "english": {
@@ -14352,6 +14858,7 @@
     "plural_form": "Werkstätte"
   },
   {
+    "synonym": "",
     "word": "Wiederhören",
     "translations": {
       "english": {
@@ -14380,6 +14887,7 @@
     "plural_form": "Wiederhören"
   },
   {
+    "synonym": "",
     "word": "Altenpflegeheim",
     "translations": {
       "english": {
@@ -14408,6 +14916,7 @@
     "plural_form": "Altenpflegeheime"
   },
   {
+    "synonym": "",
     "word": "Anrede",
     "translations": {
       "english": {
@@ -14436,6 +14945,7 @@
     "plural_form": "Anreden"
   },
   {
+    "synonym": "",
     "word": "Arm",
     "translations": {
       "english": {
@@ -14464,6 +14974,7 @@
     "plural_form": "Arme"
   },
   {
+    "synonym": "",
     "word": "Bauch",
     "translations": {
       "english": {
@@ -14492,6 +15003,7 @@
     "plural_form": "Bäuche"
   },
   {
+    "synonym": "",
     "word": "Bein",
     "translations": {
       "english": {
@@ -14520,6 +15032,7 @@
     "plural_form": "Beine"
   },
   {
+    "synonym": "",
     "word": "Bauchschmerzen",
     "translations": {
       "english": {
@@ -14548,6 +15061,7 @@
     "plural_form": "Bauchschmerzen"
   },
   {
+    "synonym": "",
     "word": "Bescheid",
     "translations": {
       "english": {
@@ -14576,6 +15090,7 @@
     "plural_form": "Bescheide"
   },
   {
+    "synonym": "",
     "word": "Besserung",
     "translations": {
       "english": {
@@ -14604,6 +15119,7 @@
     "plural_form": "Besserungen"
   },
   {
+    "synonym": "",
     "word": "Betreff",
     "translations": {
       "english": {
@@ -14632,6 +15148,7 @@
     "plural_form": "Betreffe"
   },
   {
+    "synonym": "",
     "word": "Brief",
     "translations": {
       "english": {
@@ -14660,6 +15177,7 @@
     "plural_form": "Briefe"
   },
   {
+    "synonym": "",
     "word": "Briefteil",
     "translations": {
       "english": {
@@ -14688,6 +15206,7 @@
     "plural_form": "Briefteile"
   },
   {
+    "synonym": "",
     "word": "Brust",
     "translations": {
       "english": {
@@ -14716,6 +15235,7 @@
     "plural_form": "Brüste"
   },
   {
+    "synonym": "",
     "word": "Datum",
     "translations": {
       "english": {
@@ -14744,6 +15264,7 @@
     "plural_form": "Daten"
   },
   {
+    "synonym": "",
     "word": "Empfänger",
     "translations": {
       "english": {
@@ -14772,6 +15293,7 @@
     "plural_form": "Empfänger"
   },
   {
+    "synonym": "",
     "word": "Entschuldigungsschreiben",
     "translations": {
       "english": {
@@ -14800,6 +15322,7 @@
     "plural_form": "Entschuldigungsschreiben"
   },
   {
+    "synonym": "",
     "word": "Erkältung",
     "translations": {
       "english": {
@@ -14828,6 +15351,7 @@
     "plural_form": "Erkältungen"
   },
   {
+    "synonym": "",
     "word": "Fieber",
     "translations": {
       "english": {
@@ -14856,6 +15380,7 @@
     "plural_form": "Fieber"
   },
   {
+    "synonym": "",
     "word": "Finger",
     "translations": {
       "english": {
@@ -14884,6 +15409,7 @@
     "plural_form": "Finger"
   },
   {
+    "synonym": "",
     "word": "Gesundheitskarte",
     "translations": {
       "english": {
@@ -14912,6 +15438,7 @@
     "plural_form": "Gesundheitskarten"
   },
   {
+    "synonym": "",
     "word": "Grippe",
     "translations": {
       "english": {
@@ -14940,6 +15467,7 @@
     "plural_form": "Grippen"
   },
   {
+    "synonym": "",
     "word": "Haar",
     "translations": {
       "english": {
@@ -14968,6 +15496,7 @@
     "plural_form": "Haare"
   },
   {
+    "synonym": "",
     "word": "Hals",
     "translations": {
       "english": {
@@ -14996,6 +15525,7 @@
     "plural_form": "Hälse"
   },
   {
+    "synonym": "Halsschmerz",
     "word": "Halsweh",
     "translations": {
       "english": {
@@ -15024,6 +15554,7 @@
     "plural_form": "Halsweh"
   },
   {
+    "synonym": "",
     "word": "Hausarzt",
     "translations": {
       "english": {
@@ -15052,6 +15583,7 @@
     "plural_form": "Hausärzte"
   },
   {
+    "synonym": "",
     "word": "Husten",
     "translations": {
       "english": {
@@ -15080,6 +15612,7 @@
     "plural_form": "Husten"
   },
   {
+    "synonym": "",
     "word": "Knie",
     "translations": {
       "english": {
@@ -15108,6 +15641,7 @@
     "plural_form": "Knie"
   },
   {
+    "synonym": "",
     "word": "Kopf",
     "translations": {
       "english": {
@@ -15136,6 +15670,7 @@
     "plural_form": "Köpfe"
   },
   {
+    "synonym": "",
     "word": "Kopfschmerzen",
     "translations": {
       "english": {
@@ -15164,6 +15699,7 @@
     "plural_form": "Kopfschmerzen"
   },
   {
+    "synonym": "",
     "word": "Körperteil",
     "translations": {
       "english": {
@@ -15192,6 +15728,7 @@
     "plural_form": "Körperteile"
   },
   {
+    "synonym": "",
     "word": "Krankheit",
     "translations": {
       "english": {
@@ -15220,6 +15757,7 @@
     "plural_form": "Krankheiten"
   },
   {
+    "synonym": "",
     "word": "Krankmeldung",
     "translations": {
       "english": {
@@ -15248,6 +15786,7 @@
     "plural_form": "Krankmeldungen"
   },
   {
+    "synonym": "",
     "word": "März",
     "translations": {
       "english": {
@@ -15276,6 +15815,7 @@
     "plural_form": "Märze"
   },
   {
+    "synonym": "",
     "word": "Medikament",
     "translations": {
       "english": {
@@ -15304,6 +15844,7 @@
     "plural_form": "Medikamente"
   },
   {
+    "synonym": "",
     "word": "Mund",
     "translations": {
       "english": {
@@ -15332,6 +15873,7 @@
     "plural_form": "Münder"
   },
   {
+    "synonym": "",
     "word": "Nacken",
     "translations": {
       "english": {
@@ -15360,6 +15902,7 @@
     "plural_form": "Nacken"
   },
   {
+    "synonym": "",
     "word": "Nase",
     "translations": {
       "english": {
@@ -15388,6 +15931,7 @@
     "plural_form": "Nasen"
   },
   {
+    "synonym": "",
     "word": "Notfallsprechstunde",
     "translations": {
       "english": {
@@ -15416,6 +15960,7 @@
     "plural_form": "Notfallsprechstunden"
   },
   {
+    "synonym": "",
     "word": "Ohr",
     "translations": {
       "english": {
@@ -15444,6 +15989,7 @@
     "plural_form": "Ohren"
   },
   {
+    "synonym": "",
     "word": "Orthopäde",
     "translations": {
       "english": {
@@ -15472,6 +16018,7 @@
     "plural_form": "Orthopäden"
   },
   {
+    "synonym": "",
     "word": "Patient",
     "translations": {
       "english": {
@@ -15500,6 +16047,7 @@
     "plural_form": "Patienten"
   },
   {
+    "synonym": "",
     "word": "Patientin",
     "translations": {
       "english": {
@@ -15528,6 +16076,7 @@
     "plural_form": "Patientinnen"
   },
   {
+    "synonym": "",
     "word": "Pflaster",
     "translations": {
       "english": {
@@ -15556,6 +16105,7 @@
     "plural_form": "Pflaster"
   },
   {
+    "synonym": "",
     "word": "Praktikum",
     "translations": {
       "english": {
@@ -15584,6 +16134,7 @@
     "plural_form": "Praktika"
   },
   {
+    "synonym": "",
     "word": "Praktikumsbetreuerin",
     "translations": {
       "english": {
@@ -15612,6 +16163,7 @@
     "plural_form": "Praktikumsbetreuerinnen"
   },
   {
+    "synonym": "",
     "word": "Praxis",
     "translations": {
       "english": {
@@ -15640,6 +16192,7 @@
     "plural_form": "Praxen"
   },
   {
+    "synonym": "",
     "word": "Praxisgemeinschaft",
     "translations": {
       "english": {
@@ -15668,6 +16221,7 @@
     "plural_form": "Praxisgemeinschaften"
   },
   {
+    "synonym": "",
     "word": "Rezept",
     "translations": {
       "english": {
@@ -15696,6 +16250,7 @@
     "plural_form": "Rezepte"
   },
   {
+    "synonym": "",
     "word": "Rücken",
     "translations": {
       "english": {
@@ -15724,6 +16279,7 @@
     "plural_form": "Rücken"
   },
   {
+    "synonym": "",
     "word": "Salbe",
     "translations": {
       "english": {
@@ -15752,6 +16308,7 @@
     "plural_form": "Salben"
   },
   {
+    "synonym": "",
     "word": "Schmerz",
     "translations": {
       "english": {
@@ -15780,6 +16337,7 @@
     "plural_form": "Schmerzen"
   },
   {
+    "synonym": "",
     "word": "Schnupfen",
     "translations": {
       "english": {
@@ -15808,6 +16366,7 @@
     "plural_form": "Schnupfen"
   },
   {
+    "synonym": "",
     "word": "Schulter",
     "translations": {
       "english": {
@@ -15836,6 +16395,7 @@
     "plural_form": "Schultern"
   },
   {
+    "synonym": "",
     "word": "Sprechstunde",
     "translations": {
       "english": {
@@ -15864,6 +16424,7 @@
     "plural_form": "Sprechstunden"
   },
   {
+    "synonym": "",
     "word": "Sprechstundenhilfe",
     "translations": {
       "english": {
@@ -15892,6 +16453,7 @@
     "plural_form": "Sprechstundenhilfen"
   },
   {
+    "synonym": "",
     "word": "Sprechzimmer",
     "translations": {
       "english": {
@@ -15920,6 +16482,7 @@
     "plural_form": "Sprechzimmer"
   },
   {
+    "synonym": "",
     "word": "Stirn",
     "translations": {
       "english": {
@@ -15948,6 +16511,7 @@
     "plural_form": "Stirnen"
   },
   {
+    "synonym": "",
     "word": "Tablette",
     "translations": {
       "english": {
@@ -15976,6 +16540,7 @@
     "plural_form": "Tabletten"
   },
   {
+    "synonym": "",
     "word": "Termin",
     "translations": {
       "english": {
@@ -16004,6 +16569,7 @@
     "plural_form": "Termine"
   },
   {
+    "synonym": "",
     "word": "Tropfen",
     "translations": {
       "english": {
@@ -16032,6 +16598,7 @@
     "plural_form": "Tropfen"
   },
   {
+    "synonym": "",
     "word": "Unterschrift",
     "translations": {
       "english": {
@@ -16060,6 +16627,7 @@
     "plural_form": "Unterschriften"
   },
   {
+    "synonym": "",
     "word": "Untersuchung",
     "translations": {
       "english": {
@@ -16088,6 +16656,7 @@
     "plural_form": "Untersuchungen"
   },
   {
+    "synonym": "",
     "word": "Verband",
     "translations": {
       "english": {
@@ -16116,6 +16685,7 @@
     "plural_form": "Verbände"
   },
   {
+    "synonym": "",
     "word": "Vorsorge",
     "translations": {
       "english": {
@@ -16144,6 +16714,7 @@
     "plural_form": "Vorsorgen"
   },
   {
+    "synonym": "",
     "word": "Wartezimmer",
     "translations": {
       "english": {
@@ -16172,6 +16743,7 @@
     "plural_form": "Wartezimmer"
   },
   {
+    "synonym": "",
     "word": "Wechsel",
     "translations": {
       "english": {
@@ -16200,6 +16772,7 @@
     "plural_form": "Wechsel"
   },
   {
+    "synonym": "",
     "word": "Zahn",
     "translations": {
       "english": {
@@ -16228,6 +16801,7 @@
     "plural_form": "Zähne"
   },
   {
+    "synonym": "",
     "word": "Zeh",
     "translations": {
       "english": {
@@ -16243,10 +16817,10 @@
       "russian": {
         "singular": {
           "common": "палец ноги",
-          "other": []
+          "other": ["зубок чеснока"]
         },
         "plural": {
-          "common": "пальцы ноги",
+          "common": "пальцы на ногах",
           "other": []
         }
       }
@@ -16256,6 +16830,7 @@
     "plural_form": "Zehen"
   },
   {
+    "synonym": "",
     "word": "Besuch",
     "translations": {
       "english": {
@@ -16284,6 +16859,7 @@
     "plural_form": "Besuche"
   },
   {
+    "synonym": "",
     "word": "Bewegung",
     "translations": {
       "english": {
@@ -16312,6 +16888,7 @@
     "plural_form": "Bewegungen"
   },
   {
+    "synonym": "",
     "word": "Blume",
     "translations": {
       "english": {
@@ -16340,6 +16917,7 @@
     "plural_form": "Blumen"
   },
   {
+    "synonym": "",
     "word": "Dienst",
     "translations": {
       "english": {
@@ -16368,6 +16946,7 @@
     "plural_form": "Dienste"
   },
   {
+    "synonym": "",
     "word": "Ferienhaus",
     "translations": {
       "english": {
@@ -16383,11 +16962,11 @@
       "russian": {
         "singular": {
           "common": "дом для отдыха",
-          "other": ["домик на отдых"]
+          "other": ["дача", "загородный дом"]
         },
         "plural": {
           "common": "дома для отдыха",
-          "other": ["домики на отдых"]
+          "other": ["дачи", "загородные дома"]
         }
       }
     },
@@ -16396,6 +16975,7 @@
     "plural_form": "Ferienhäuser"
   },
   {
+    "synonym": "",
     "word": "Hausflur",
     "translations": {
       "english": {
@@ -16424,6 +17004,7 @@
     "plural_form": "Hausflure"
   },
   {
+    "synonym": "",
     "word": "Hobby",
     "translations": {
       "english": {
@@ -16452,6 +17033,7 @@
     "plural_form": "Hobbys"
   },
   {
+    "synonym": "",
     "word": "Ingenieur",
     "translations": {
       "english": {
@@ -16480,6 +17062,7 @@
     "plural_form": "Ingenieure"
   },
   {
+    "synonym": "",
     "word": "Insel",
     "translations": {
       "english": {
@@ -16508,6 +17091,7 @@
     "plural_form": "Inseln"
   },
   {
+    "synonym": "",
     "word": "Inselrundfahrt",
     "translations": {
       "english": {
@@ -16536,6 +17120,7 @@
     "plural_form": "Inselrundfahrten"
   },
   {
+    "synonym": "",
     "word": "Koffer",
     "translations": {
       "english": {
@@ -16564,6 +17149,7 @@
     "plural_form": "Koffer"
   },
   {
+    "synonym": "",
     "word": "Meer",
     "translations": {
       "english": {
@@ -16592,6 +17178,7 @@
     "plural_form": "Meere"
   },
   {
+    "synonym": "",
     "word": "Mond",
     "translations": {
       "english": {
@@ -16620,6 +17207,7 @@
     "plural_form": "Monde"
   },
   {
+    "synonym": "",
     "word": "Nachbar",
     "translations": {
       "english": {
@@ -16648,6 +17236,7 @@
     "plural_form": "Nachbarn"
   },
   {
+    "synonym": "",
     "word": "Nachbarin",
     "translations": {
       "english": {
@@ -16676,6 +17265,7 @@
     "plural_form": "Nachbarinnen"
   },
   {
+    "synonym": "",
     "word": "Postkarte",
     "translations": {
       "english": {
@@ -16704,6 +17294,7 @@
     "plural_form": "Postkarten"
   },
   {
+    "synonym": "",
     "word": "Schiff",
     "translations": {
       "english": {
@@ -16732,6 +17323,7 @@
     "plural_form": "Schiffe"
   },
   {
+    "synonym": "",
     "word": "Seehund",
     "translations": {
       "english": {
@@ -16752,6 +17344,7 @@
     "plural_form": "Seehunde"
   },
   {
+    "synonym": "",
     "word": "Ski",
     "translations": {
       "english": {
@@ -16772,6 +17365,7 @@
     "plural_form": "Skier"
   },
   {
+    "synonym": "",
     "word": "Strand",
     "translations": {
       "english": {
@@ -16792,6 +17386,7 @@
     "plural_form": "Strände"
   },
   {
+    "synonym": "",
     "word": "Studium",
     "translations": {
       "english": {
@@ -16812,6 +17407,7 @@
     "plural_form": "Studien"
   },
   {
+    "synonym": "",
     "word": "Suppe",
     "translations": {
       "english": {
@@ -16832,6 +17428,7 @@
     "plural_form": "Suppen"
   },
   {
+    "synonym": "",
     "word": "Tennis",
     "translations": {
       "english": {
@@ -16852,6 +17449,7 @@
     "plural_form": "Tennis"
   },
   {
+    "synonym": "",
     "word": "Tourist",
     "translations": {
       "english": {
@@ -16872,6 +17470,7 @@
     "plural_form": "Touristen"
   },
   {
+    "synonym": "",
     "word": "Urlaub",
     "translations": {
       "english": {
@@ -16892,6 +17491,7 @@
     "plural_form": "Urlaube"
   },
   {
+    "synonym": "",
     "word": "Wetter",
     "translations": {
       "english": {
@@ -16912,6 +17512,7 @@
     "plural_form": "Wetter"
   },
   {
+    "synonym": "",
     "word": "Anzug",
     "translations": {
       "english": {
@@ -16932,6 +17533,7 @@
     "plural_form": "Anzüge"
   },
   {
+    "synonym": "",
     "word": "Bluse",
     "translations": {
       "english": {
@@ -16952,6 +17554,7 @@
     "plural_form": "Blusen"
   },
   {
+    "synonym": "",
     "word": "Einkaufsbummel",
     "translations": {
       "english": {
@@ -16972,6 +17575,7 @@
     "plural_form": "Einkaufsbummel"
   },
   {
+    "synonym": "",
     "word": "Hemd",
     "translations": {
       "english": {
@@ -16992,6 +17596,7 @@
     "plural_form": "Hemden"
   },
   {
+    "synonym": "",
     "word": "Hose",
     "translations": {
       "english": {
@@ -17012,6 +17617,7 @@
     "plural_form": "Hosen"
   },
   {
+    "synonym": "",
     "word": "Jacke",
     "translations": {
       "english": {
@@ -17032,6 +17638,7 @@
     "plural_form": "Jacken"
   },
   {
+    "synonym": "",
     "word": "Jeans",
     "translations": {
       "english": {
@@ -17052,6 +17659,7 @@
     "plural_form": "Jeans"
   },
   {
+    "synonym": "",
     "word": "Jogginganzug",
     "translations": {
       "english": {
@@ -17072,6 +17680,7 @@
     "plural_form": "Jogginganzüge"
   },
   {
+    "synonym": "",
     "word": "Kassenbon",
     "translations": {
       "english": {
@@ -17083,7 +17692,7 @@
       "russian": {
         "singular": {
           "common": "чек",
-          "other": []
+          "other": ["кассовый чек", "квитанция"]
         }
       }
     },
@@ -17092,6 +17701,7 @@
     "plural_form": "Kassenbons"
   },
   {
+    "synonym": "",
     "word": "Kaufhaus",
     "translations": {
       "english": {
@@ -17112,6 +17722,7 @@
     "plural_form": "Kaufhäuser"
   },
   {
+    "synonym": "",
     "word": "Klamotten",
     "translations": {
       "english": {
@@ -17132,6 +17743,7 @@
     "plural_form": "Klamotten"
   },
   {
+    "synonym": "",
     "word": "Kleid",
     "translations": {
       "english": {
@@ -17152,6 +17764,7 @@
     "plural_form": "Kleider"
   },
   {
+    "synonym": "",
     "word": "Kleidung",
     "translations": {
       "english": {
@@ -17172,6 +17785,7 @@
     "plural_form": "Kleidungen"
   },
   {
+    "synonym": "",
     "word": "Kleidungsstück",
     "translations": {
       "english": {
@@ -17192,6 +17806,7 @@
     "plural_form": "Kleidungsstücke"
   },
   {
+    "synonym": "",
     "word": "Mantel",
     "translations": {
       "english": {
@@ -17212,6 +17827,7 @@
     "plural_form": "Mäntel"
   },
   {
+    "synonym": "",
     "word": "Mode",
     "translations": {
       "english": {
@@ -17232,6 +17848,7 @@
     "plural_form": "Moden"
   },
   {
+    "synonym": "",
     "word": "Modell",
     "translations": {
       "english": {
@@ -17252,6 +17869,7 @@
     "plural_form": "Modelle"
   },
   {
+    "synonym": "",
     "word": "Mütze",
     "translations": {
       "english": {
@@ -17272,6 +17890,7 @@
     "plural_form": "Mützen"
   },
   {
+    "synonym": "",
     "word": "Ordnung",
     "translations": {
       "english": {
@@ -17292,6 +17911,7 @@
     "plural_form": "Ordnungen"
   },
   {
+    "synonym": "",
     "word": "Paar",
     "translations": {
       "english": {
@@ -17312,6 +17932,7 @@
     "plural_form": "Paare"
   },
   {
+    "synonym": "",
     "word": "Prospekt",
     "translations": {
       "english": {
@@ -17332,6 +17953,7 @@
     "plural_form": "Prospekte"
   },
   {
+    "synonym": "",
     "word": "Pullover",
     "translations": {
       "english": {
@@ -17352,6 +17974,7 @@
     "plural_form": "Pullover"
   },
   {
+    "synonym": "",
     "word": "Rock",
     "translations": {
       "english": {
@@ -17372,6 +17995,7 @@
     "plural_form": "Röcke"
   },
   {
+    "synonym": "",
     "word": "Schal",
     "translations": {
       "english": {
@@ -17392,6 +18016,7 @@
     "plural_form": "Schals"
   },
   {
+    "synonym": "",
     "word": "Schuh",
     "translations": {
       "english": {
@@ -17412,6 +18037,7 @@
     "plural_form": "Schuhe"
   },
   {
+    "synonym": "",
     "word": "Socke",
     "translations": {
       "english": {
@@ -17432,6 +18058,7 @@
     "plural_form": "Socken"
   },
   {
+    "synonym": "",
     "word": "Sportschuh",
     "translations": {
       "english": {
@@ -17452,6 +18079,7 @@
     "plural_form": "Sportschuhe"
   },
   {
+    "synonym": "",
     "word": "Strickjacke",
     "translations": {
       "english": {
@@ -17462,8 +18090,8 @@
       },
       "russian": {
         "singular": {
-          "common": "жакет",
-          "other": []
+          "common": "кардиган",
+          "other": ["вязанная кофта", "жакет"]
         }
       }
     },
@@ -17472,6 +18100,7 @@
     "plural_form": "Strickjacken"
   },
   {
+    "synonym": "",
     "word": "Strumpf",
     "translations": {
       "english": {
@@ -17492,6 +18121,7 @@
     "plural_form": "Strümpfe"
   },
   {
+    "synonym": "",
     "word": "T-Shirt",
     "translations": {
       "english": {
@@ -17512,6 +18142,7 @@
     "plural_form": "T-Shirts"
   },
   {
+    "synonym": "",
     "word": "Wintermantel",
     "translations": {
       "english": {
@@ -17532,6 +18163,7 @@
     "plural_form": "Wintermäntel"
   },
   {
+    "synonym": "",
     "word": "Achtung",
     "translations": {
       "english": {
@@ -17552,6 +18184,7 @@
     "plural_form": "Achtungen"
   },
   {
+    "synonym": "",
     "word": "April",
     "translations": {
       "english": {
@@ -17572,6 +18205,7 @@
     "plural_form": "April"
   },
   {
+    "synonym": "",
     "word": "August",
     "translations": {
       "english": {
@@ -17592,6 +18226,7 @@
     "plural_form": "August"
   },
   {
+    "synonym": "",
     "word": "Braut",
     "translations": {
       "english": {
@@ -17612,6 +18247,7 @@
     "plural_form": "Bräute"
   },
   {
+    "synonym": "",
     "word": "Dank",
     "translations": {
       "english": {
@@ -17632,6 +18268,7 @@
     "plural_form": "Dank"
   },
   {
+    "synonym": "",
     "word": "Deutschlandkarte",
     "translations": {
       "english": {
@@ -17652,6 +18289,7 @@
     "plural_form": "Deutschlandkarten"
   },
   {
+    "synonym": "",
     "word": "Dezember",
     "translations": {
       "english": {
@@ -17672,6 +18310,7 @@
     "plural_form": "Dezember"
   },
   {
+    "synonym": "",
     "word": "Einladung",
     "translations": {
       "english": {
@@ -17692,6 +18331,7 @@
     "plural_form": "Einladungen"
   },
   {
+    "synonym": "",
     "word": "Eis",
     "translations": {
       "english": {
@@ -17712,6 +18352,7 @@
     "plural_form": "Eis"
   },
   {
+    "synonym": "",
     "word": "Februar",
     "translations": {
       "english": {
@@ -17732,6 +18373,7 @@
     "plural_form": "Februar"
   },
   {
+    "synonym": "",
     "word": "Feier",
     "translations": {
       "english": {
@@ -17752,6 +18394,7 @@
     "plural_form": "Feiern"
   },
   {
+    "synonym": "",
     "word": "Fest",
     "translations": {
       "english": {
@@ -17772,6 +18415,7 @@
     "plural_form": "Feste"
   },
   {
+    "synonym": "",
     "word": "Frühling",
     "translations": {
       "english": {
@@ -17792,6 +18436,7 @@
     "plural_form": "Frühlinge"
   },
   {
+    "synonym": "",
     "word": "Gartenparty",
     "translations": {
       "english": {
@@ -17812,6 +18457,7 @@
     "plural_form": "Gartenpartys"
   },
   {
+    "synonym": "",
     "word": "Geburtstag",
     "translations": {
       "english": {
@@ -17832,6 +18478,7 @@
     "plural_form": "Geburtstage"
   },
   {
+    "synonym": "",
     "word": "Geburtstagstorte",
     "translations": {
       "english": {
@@ -17852,6 +18499,7 @@
     "plural_form": "Geburtstagstorten"
   },
   {
+    "synonym": "",
     "word": "Geschenk",
     "translations": {
       "english": {
@@ -17872,6 +18520,7 @@
     "plural_form": "Geschenke"
   },
   {
+    "synonym": "",
     "word": "Glückstag",
     "translations": {
       "english": {
@@ -17892,6 +18541,7 @@
     "plural_form": "Glückstage"
   },
   {
+    "synonym": "",
     "word": "Grad",
     "translations": {
       "english": {
@@ -17912,6 +18562,7 @@
     "plural_form": "Grade"
   },
   {
+    "synonym": "",
     "word": "Handschuh",
     "translations": {
       "english": {
@@ -17932,6 +18583,7 @@
     "plural_form": "Handschuhe"
   },
   {
+    "synonym": "",
     "word": "Hase",
     "translations": {
       "english": {
@@ -17952,6 +18604,7 @@
     "plural_form": "Hasen"
   },
   {
+    "synonym": "",
     "word": "Herbst",
     "translations": {
       "english": {
@@ -17972,6 +18625,7 @@
     "plural_form": "Herbste"
   },
   {
+    "synonym": "",
     "word": "Himmelsrichtung",
     "translations": {
       "english": {
@@ -17992,6 +18646,7 @@
     "plural_form": "Himmelsrichtungen"
   },
   {
+    "synonym": "",
     "word": "Hochzeit",
     "translations": {
       "english": {
@@ -18012,6 +18667,7 @@
     "plural_form": "Hochzeiten"
   },
   {
+    "synonym": "",
     "word": "Hochzeitsfeier",
     "translations": {
       "english": {
@@ -18032,6 +18688,7 @@
     "plural_form": "Hochzeitsfeiern"
   },
   {
+    "synonym": "",
     "word": "Jahreszahl",
     "translations": {
       "english": {
@@ -18052,6 +18709,7 @@
     "plural_form": "Jahreszahlen"
   },
   {
+    "synonym": "",
     "word": "Jahreszeit",
     "translations": {
       "english": {
@@ -18072,6 +18730,7 @@
     "plural_form": "Jahreszeiten"
   },
   {
+    "synonym": "",
     "word": "Januar",
     "translations": {
       "english": {
@@ -18092,6 +18751,7 @@
     "plural_form": "Januar"
   },
   {
+    "synonym": "",
     "word": "Juli",
     "translations": {
       "english": {
@@ -18112,6 +18772,7 @@
     "plural_form": "Juli"
   },
   {
+    "synonym": "",
     "word": "Kalender",
     "translations": {
       "english": {
@@ -18132,6 +18793,7 @@
     "plural_form": "Kalender"
   },
   {
+    "synonym": "",
     "word": "Luftballon",
     "translations": {
       "english": {
@@ -18152,6 +18814,7 @@
     "plural_form": "Luftballons"
   },
   {
+    "synonym": "",
     "word": "Mai",
     "translations": {
       "english": {
@@ -18172,6 +18835,7 @@
     "plural_form": "Mai"
   },
   {
+    "synonym": "",
     "word": "Mama",
     "translations": {
       "english": {
@@ -18192,6 +18856,7 @@
     "plural_form": "Mamas"
   },
   {
+    "synonym": "",
     "word": "Norden",
     "translations": {
       "english": {
@@ -18212,6 +18877,7 @@
     "plural_form": "Norden"
   },
   {
+    "synonym": "",
     "word": "November",
     "translations": {
       "english": {
@@ -18232,6 +18898,7 @@
     "plural_form": "November"
   },
   {
+    "synonym": "",
     "word": "Oktober",
     "translations": {
       "english": {
@@ -18252,6 +18919,7 @@
     "plural_form": "Oktober"
   },
   {
+    "synonym": "",
     "word": "Oktoberfest",
     "translations": {
       "english": {
@@ -18272,6 +18940,7 @@
     "plural_form": "Oktoberfeste"
   },
   {
+    "synonym": "",
     "word": "Oma",
     "translations": {
       "english": {
@@ -18292,6 +18961,7 @@
     "plural_form": "Omas"
   },
   {
+    "synonym": "",
     "word": "Osten",
     "translations": {
       "english": {
@@ -18312,6 +18982,7 @@
     "plural_form": "Osten"
   },
   {
+    "synonym": "",
     "word": "Osterei",
     "translations": {
       "english": {
@@ -18332,6 +19003,7 @@
     "plural_form": "Ostereier"
   },
   {
+    "synonym": "",
     "word": "Osterfest",
     "translations": {
       "english": {
@@ -18352,6 +19024,7 @@
     "plural_form": "Osterfeste"
   },
   {
+    "synonym": "",
     "word": "Ostern",
     "translations": {
       "english": {
@@ -18372,6 +19045,7 @@
     "plural_form": "Ostern"
   },
   {
+    "synonym": "",
     "word": "Papa",
     "translations": {
       "english": {
@@ -18392,6 +19066,7 @@
     "plural_form": "Papas"
   },
   {
+    "synonym": "",
     "word": "Schatz",
     "translations": {
       "english": {
@@ -18412,6 +19087,7 @@
     "plural_form": "Schätze"
   },
   {
+    "synonym": "",
     "word": "Schnee",
     "translations": {
       "english": {
@@ -18432,6 +19108,7 @@
     "plural_form": "Schneen"
   },
   {
+    "synonym": "",
     "word": "Schneemann",
     "translations": {
       "english": {
@@ -18452,6 +19129,7 @@
     "plural_form": "Schneemänner"
   },
   {
+    "synonym": "",
     "word": "Schokoladenkuchen",
     "translations": {
       "english": {
@@ -18472,6 +19150,7 @@
     "plural_form": "Schokoladenkuchen"
   },
   {
+    "synonym": "",
     "word": "Sekt",
     "translations": {
       "english": {
@@ -18492,6 +19171,7 @@
     "plural_form": "Sekte"
   },
   {
+    "synonym": "",
     "word": "September",
     "translations": {
       "english": {
@@ -18512,6 +19192,7 @@
     "plural_form": "September"
   },
   {
+    "synonym": "",
     "word": "Sommer",
     "translations": {
       "english": {
@@ -18532,6 +19213,7 @@
     "plural_form": "Sommer"
   },
   {
+    "synonym": "",
     "word": "Spezialität",
     "translations": {
       "english": {
@@ -18552,6 +19234,7 @@
     "plural_form": "Spezialitäten"
   },
   {
+    "synonym": "",
     "word": "Standesamt",
     "translations": {
       "english": {
@@ -18572,6 +19255,7 @@
     "plural_form": "Standesämter"
   },
   {
+    "synonym": "",
     "word": "Süden",
     "translations": {
       "english": {
@@ -18592,6 +19276,7 @@
     "plural_form": "Süden"
   },
   {
+    "synonym": "",
     "word": "Teller",
     "translations": {
       "english": {
@@ -18612,6 +19297,7 @@
     "plural_form": "Teller"
   },
   {
+    "synonym": "",
     "word": "Torte",
     "translations": {
       "english": {
@@ -18632,6 +19318,7 @@
     "plural_form": "Torten"
   },
   {
+    "synonym": "",
     "word": "Unglückstag",
     "translations": {
       "english": {
@@ -18652,6 +19339,7 @@
     "plural_form": "Unglückstage"
   },
   {
+    "synonym": "",
     "word": "Weihnachten",
     "translations": {
       "english": {
@@ -18672,6 +19360,7 @@
     "plural_form": "Weihnachten"
   },
   {
+    "synonym": "",
     "word": "Weihnachtsbaum",
     "translations": {
       "english": {
@@ -18682,8 +19371,8 @@
       },
       "russian": {
         "singular": {
-          "common": "новогодняя ёлка",
-          "other": []
+          "common": "рождественская ёлка",
+          "other": ["новогодняя ёлка"]
         }
       }
     },
@@ -18692,6 +19381,7 @@
     "plural_form": "Weihnachtsbäume"
   },
   {
+    "synonym": "",
     "word": "Weihnachtsfeier",
     "translations": {
       "english": {
@@ -18712,6 +19402,7 @@
     "plural_form": "Weihnachtsfeiern"
   },
   {
+    "synonym": "",
     "word": "Weihnachtsgeschenk",
     "translations": {
       "english": {
@@ -18732,6 +19423,7 @@
     "plural_form": "Weihnachtsgeschenke"
   },
   {
+    "synonym": "",
     "word": "Weihnachtsmann",
     "translations": {
       "english": {
@@ -18752,6 +19444,7 @@
     "plural_form": "Weihnachtsmänner"
   },
   {
+    "synonym": "",
     "word": "Westdeutschland",
     "translations": {
       "english": {
@@ -18772,6 +19465,7 @@
     "plural_form": "Westdeutschland"
   },
   {
+    "synonym": "",
     "word": "Westen",
     "translations": {
       "english": {
@@ -18792,6 +19486,7 @@
     "plural_form": "Westen"
   },
   {
+    "synonym": "",
     "word": "Wetterbericht",
     "translations": {
       "english": {
