@@ -12,10 +12,10 @@ export default function EducationLayout({
         <Link href="/education/nouns" className={styles.nav_button}>
           <span>Nomen</span>
         </Link>
-        <Link href="/education/verbs" className={styles.nav_button}>
+        <Link href="/education/nouns" className={styles.nav_button}>
           <span>Verben</span>
         </Link>
-        <Link href="/education/adjectives" className={styles.nav_button}>
+        <Link href="/education/nouns" className={styles.nav_button}>
           <span>Adjektive</span>
         </Link>
       </div>

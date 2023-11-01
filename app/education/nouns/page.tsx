@@ -4,7 +4,7 @@ import styles from "./nouns.module.scss";
 import classNames from "classnames/bind";
 const cn = classNames.bind(styles);
 
-import { useEffect, useState } from "react";
+import { ReactNode, useEffect, useState } from "react";
 import Image from "next/image";
 import { INoun, TArticle } from "@/types";
 import nounsAll from "@/dictionary/nouns.json";
@@ -16,6 +16,7 @@ export default function Nouns() {
   const [answer, setAnswer] = useState<string>("");
   const [checked, setChecked] = useState<boolean>(false);
   const [showHelp, setShowHelp] = useState<boolean>(false);
+  const [unknown, setUnknown] = useState<boolean>(false);
   const [shuffledAnswer, setShuffledAnswer] = useState<string[]>([]);
 
   useEffect(() => {
@@ -46,11 +47,18 @@ export default function Nouns() {
 
   const nextWord = (): void => {
     const randomNum = Math.floor(Math.random() * nounsAll.length);
-    setSelectedNoun(nounsAll[randomNum] as INoun);
-    setChecked(false);
-    setAnswer("");
-    setArticel(null);
-    setShowHelp(false);
+    if (selectedNoun && !answer && !articel) {
+      setArticel(selectedNoun.definite_article);
+      setAnswer(selectedNoun.word);
+      setUnknown(true);
+    } else {
+      setSelectedNoun(nounsAll[randomNum] as INoun);
+      setChecked(false);
+      setAnswer("");
+      setArticel(null);
+      setShowHelp(false);
+      setUnknown(false);
+    }
   };
 
   const getArticlesStyle = (art: string): string => {
@@ -79,8 +87,19 @@ export default function Nouns() {
     setAnswer(answer + letter);
   };
 
+  const dictionaryInfo = (): ReactNode | null => {
+    if (nounsAll && selectedNoun) {
+      return (
+        <p>{`Всего слов: ${nounsAll.length} | Текущее: ${nounsAll.findIndex(
+          (n) => selectedNoun === n
+        )}`}</p>
+      );
+    } else null;
+  };
+
   return (
     <div className={cn("container")}>
+      {dictionaryInfo()}
       <h1 className={cn("title")}>
         {selectedNoun
           ? selectedNoun.translations.russian.singular.common
@@ -148,7 +167,7 @@ export default function Nouns() {
         <button
           onClick={onCheckAnswer}
           className={cn("checkBtn")}
-          disabled={answer && articel ? false : true}
+          disabled={!unknown && answer && articel ? false : true}
         >
           Проверить
         </button>
