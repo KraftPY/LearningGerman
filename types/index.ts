@@ -7,6 +7,11 @@ export interface ITranslation {
   readonly other: string[];
 }
 
+export interface ISynonym {
+  readonly word: string;
+  readonly definite_article: string;
+}
+
 export interface INoun {
   readonly level: TLevel;
   readonly word_id: 1;
@@ -14,6 +19,7 @@ export interface INoun {
   readonly word_type: TWord;
   readonly definite_article: TArticle;
   readonly plural_form: string;
+  synonym: ISynonym;
   translations: {
     english: {
       singular: ITranslation;

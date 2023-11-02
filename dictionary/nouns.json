@@ -948,11 +948,11 @@
       "russian": {
         "singular": {
           "common": "имя",
-          "other": []
+          "other": ["полное имя"]
         },
         "plural": {
           "common": "имена",
-          "other": []
+          "other": ["полные имена"]
         }
       }
     },
@@ -2858,21 +2858,21 @@
       "english": {
         "singular": {
           "common": "evening",
-          "other": ["night"]
+          "other": []
         },
         "plural": {
           "common": "evenings",
-          "other": ["nights"]
+          "other": []
         }
       },
       "russian": {
         "singular": {
           "common": "вечер",
-          "other": ["ночь"]
+          "other": []
         },
         "plural": {
           "common": "вечера",
-          "other": ["ночи"]
+          "other": []
         }
       }
     },
@@ -3316,7 +3316,7 @@
     "plural_form": ""
   },
   {
-    "synonym": { "word": "", "definite_article": "" },
+    "synonym": { "word": "Nachname", "definite_article": "der" },
     "word": "Familienname",
     "translations": {
       "english": {
@@ -3664,7 +3664,7 @@
     "plural_form": "Mütter"
   },
   {
-    "synonym": { "word": "", "definite_article": "" },
+    "synonym": { "word": "Familienname", "definite_article": "der" },
     "word": "Nachname",
     "translations": {
       "english": {
@@ -8609,12 +8609,12 @@
       },
       "russian": {
         "singular": {
-          "common": "конец",
-          "other": []
+          "common": "окончание",
+          "other": ["конец", "развязка"]
         },
         "plural": {
-          "common": "концы",
-          "other": []
+          "common": "окончания",
+          "other": ["концы", "развязки"]
         }
       }
     },
@@ -9103,11 +9103,11 @@
       "russian": {
         "singular": {
           "common": "ванна",
-          "other": []
+          "other": ["ванночка"]
         },
         "plural": {
           "common": "ванны",
-          "other": []
+          "other": ["ванночки"]
         }
       }
     },
@@ -10872,11 +10872,11 @@
       "russian": {
         "singular": {
           "common": "туалет",
-          "other": ["Уборная", "Унитаз"]
+          "other": ["уборная", "унитаз"]
         },
         "plural": {
           "common": "туалеты",
-          "other": ["Уборные", "Унитазы"]
+          "other": ["уборные", "унитазы"]
         }
       }
     },
@@ -10941,64 +10941,6 @@
     "word_type": "Noun",
     "definite_article": "die",
     "plural_form": "Waschmaschinen"
-  },
-  {
-    "synonym": { "word": "", "definite_article": "" },
-    "word": "Wohnungsanzeige",
-    "translations": {
-      "english": {
-        "singular": {
-          "common": "apartment ad",
-          "other": ["flat ad"]
-        },
-        "plural": {
-          "common": "apartment ads",
-          "other": ["flat ads"]
-        }
-      },
-      "russian": {
-        "singular": {
-          "common": "объявление о квартире",
-          "other": []
-        },
-        "plural": {
-          "common": "объявления о квартире",
-          "other": []
-        }
-      }
-    },
-    "word_type": "Noun",
-    "definite_article": "die",
-    "plural_form": "Wohnungsanzeigen"
-  },
-  {
-    "synonym": { "word": "", "definite_article": "" },
-    "word": "Wohnungssuche",
-    "translations": {
-      "english": {
-        "singular": {
-          "common": "apartment search",
-          "other": ["flat search"]
-        },
-        "plural": {
-          "common": "apartment searches",
-          "other": ["flat searches"]
-        }
-      },
-      "russian": {
-        "singular": {
-          "common": "поиск квартиры",
-          "other": []
-        },
-        "plural": {
-          "common": "поиски квартиры",
-          "other": []
-        }
-      }
-    },
-    "word_type": "Noun",
-    "definite_article": "die",
-    "plural_form": "Wohnungssuchen"
   },
   {
     "synonym": { "word": "", "definite_article": "" },
@@ -12031,12 +11973,12 @@
       },
       "russian": {
         "singular": {
-          "common": "медицинская страховка",
-          "other": []
+          "common": "медицинское страхование",
+          "other": ["медицинская страховая компания"]
         },
         "plural": {
-          "common": "медицинские страховки",
-          "other": []
+          "common": "медицинские страхования",
+          "other": ["медицинские страховые компании"]
         }
       }
     },
@@ -14801,35 +14743,6 @@
   },
   {
     "synonym": { "word": "", "definite_article": "" },
-    "word": "Altenpflegeheim",
-    "translations": {
-      "english": {
-        "singular": {
-          "common": "nursing home",
-          "other": []
-        },
-        "plural": {
-          "common": "nursing homes",
-          "other": []
-        }
-      },
-      "russian": {
-        "singular": {
-          "common": "дом престарелых",
-          "other": []
-        },
-        "plural": {
-          "common": "дома престарелых",
-          "other": []
-        }
-      }
-    },
-    "word_type": "Noun",
-    "definite_article": "das",
-    "plural_form": "Altenpflegeheime"
-  },
-  {
-    "synonym": { "word": "", "definite_article": "" },
     "word": "Anrede",
     "translations": {
       "english": {
@@ -15802,11 +15715,11 @@
       "russian": {
         "singular": {
           "common": "шея",
-          "other": []
+          "other": ["затылок"]
         },
         "plural": {
           "common": "шеи",
-          "other": []
+          "other": ["затылки"]
         }
       }
     },
@@ -17744,7 +17657,7 @@
       "russian": {
         "singular": {
           "common": "модель",
-          "other": []
+          "other": ["макет", "образец"]
         }
       }
     },
@@ -18584,7 +18497,7 @@
       "russian": {
         "singular": {
           "common": "год",
-          "other": ["годовой номер"]
+          "other": ["нумерация года", "указание года"]
         }
       }
     },
@@ -18801,27 +18714,6 @@
     "word_type": "Noun",
     "definite_article": "der",
     "plural_form": "Oktober"
-  },
-  {
-    "synonym": { "word": "", "definite_article": "" },
-    "word": "Oktoberfest",
-    "translations": {
-      "english": {
-        "singular": {
-          "common": "Oktoberfest",
-          "other": []
-        }
-      },
-      "russian": {
-        "singular": {
-          "common": "Октоберфест",
-          "other": []
-        }
-      }
-    },
-    "word_type": "Noun",
-    "definite_article": "das",
-    "plural_form": "Oktoberfeste"
   },
   {
     "synonym": { "word": "", "definite_article": "" },

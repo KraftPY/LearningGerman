@@ -28,6 +28,10 @@
   &-incorrect {
     @apply bg-red-400;
   }
+
+  &-unknown {
+    @apply bg-orange-300;
+  }
 }
 
 .nounField {
@@ -39,6 +43,10 @@
 
   &-incorrect {
     @apply border-red-400 bg-red-300;
+  }
+
+  &-unknown {
+    @apply border-orange-400 bg-orange-300;
   }
 }
 

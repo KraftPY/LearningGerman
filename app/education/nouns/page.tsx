@@ -28,6 +28,12 @@ export default function Nouns() {
     // if (fNoun) {
     //   setSelectedNoun(fNoun as INoun);
     // }
+    localStorage.setItem("learned", JSON.stringify(["WTF", { key: 1 }]));
+    const fromLS = localStorage.getItem("learned");
+    if (fromLS) {
+      let learned = JSON.parse(fromLS);
+      // console.log(learned);
+    }
   }, []);
 
   useEffect(() => {
@@ -47,7 +53,7 @@ export default function Nouns() {
 
   const nextWord = (): void => {
     const randomNum = Math.floor(Math.random() * nounsAll.length);
-    if (selectedNoun && !answer && !articel) {
+    if ((selectedNoun && !answer) || (selectedNoun && !articel)) {
       setArticel(selectedNoun.definite_article);
       setAnswer(selectedNoun.word);
       setUnknown(true);
@@ -66,7 +72,9 @@ export default function Nouns() {
       "articleBtn-active": articel === art,
       "articleBtn-correct": checked && selectedNoun?.definite_article === art,
       "articleBtn-incorrect":
-        checked && selectedNoun?.definite_article !== art && articel === art
+        checked && selectedNoun?.definite_article !== art && articel === art,
+      "articleBtn-unknown":
+        !checked && unknown && selectedNoun?.definite_article === art
     });
   };
 
@@ -75,7 +83,8 @@ export default function Nouns() {
       "nounField-correct":
         checked && answer.toLowerCase() === selectedNoun?.word.toLowerCase(),
       "nounField-incorrect":
-        checked && answer.toLowerCase() !== selectedNoun?.word.toLowerCase()
+        checked && answer.toLowerCase() !== selectedNoun?.word.toLowerCase(),
+      "nounField-unknown": !checked && unknown
     });
   };
 
@@ -158,6 +167,9 @@ export default function Nouns() {
       {checked && selectedNoun?.word.toLowerCase() !== answer.toLowerCase() ? (
         <p className={cn("correct-answer")}>
           Ответ: <strong>{selectedNoun?.word}</strong>
+          {selectedNoun && selectedNoun.synonym.word !== ""
+            ? ` (синоним: ${selectedNoun.synonym.definite_article} ${selectedNoun.synonym.word})`
+            : ""}
         </p>
       ) : (
         ""
